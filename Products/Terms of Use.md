@@ -1,4 +1,4 @@
-# Terms of Use (Last updated: 22.12.18)
+# Terms of Use (Last updated: 07.02.19)
 
 ## 1. Global Terms
 
@@ -17,8 +17,6 @@
 2.3 Sharing paid product will result in a punishment (see 1.2).
 
 2.4 We don't guarantee frequent updates, quick support and permanent workability for free products.
-
-2.5 
 
 ## 3. Private Products*
 
@@ -48,7 +46,7 @@
 
 4.3 Customer cannot request a refund for a private product if he has not complied with paragraph 3.5.
 
-4.4 If the order was divided into several parts and work on at least one part was done, customer cannot request a refund in the amount of more than 25% of the prepayment.
+4.4 The refund amount cannot exceed 50% of the prepayment*.
 
 4.5 Customer can request a refund for a public product if the product doesn't match it's description, photos and videos. (Exclusion: see 1.2)
 
