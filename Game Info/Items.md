@@ -25,6 +25,7 @@
 |14241751|arrow.fire|Fire Arrow|0|False|
 |-1023065463|arrow.hv|High Velocity Arrow|0|False|
 |-1234735557|arrow.wooden|Wooden Arrow|0|False|
+|2100007442|electric.audioalarm|Audio Alarm|100|True|
 |-2139580305|autoturret|Auto Turret|100|True|
 |-262590403|axe.salvaged|Salvaged Axe|500|True|
 |-2072273936|bandage|Bandage|0|False|
@@ -78,6 +79,7 @@
 |-1848736516|chicken.cooked|Cooked Chicken|0|False|
 |-1440987069|chicken.raw|Raw Chicken Breast|0|False|
 |-751151717|chicken.spoiled|Spoiled Chicken|0|False|
+|-1916473915|chineselantern|Chinese Lantern|100|False|
 |363467698|chocholate|Chocolate Bar|0|False|
 |2009734114|xmasdoorwreath|Christmas Door Wreath|100|True|
 |-858312878|cloth|Cloth|0|False|
@@ -91,6 +93,7 @@
 |1965232394|crossbow|Crossbow|100|True|
 |-321733511|crude.oil|Crude Oil|0|False|
 |-97956382|cupboard.tool|Tool Cupboard|0|False|
+|596469572|rf.detonator|RF Transmitter|50|False|
 |296519935|diving.fins|Diving Fins|0|False|
 |-113413047|diving.mask|Diving Mask|200|True|
 |-2022172587|diving.tank|Diving Tank|600|True|
@@ -105,12 +108,16 @@
 |1409529282|door.closer|Door Closer|0|False|
 |-502177121|electric.doorcontroller|Door Controller|100|True|
 |674734128|xmas.door.garland|Festive Doorway Garland|100|False|
+|-854270928|dragondoorknocker|Dragon Door Knocker|100|True|
 |-1519126340|dropbox|Drop Box|100|False|
 |1401987718|ducttape|Duct Tape|0|False|
+|-939424778|electric.flasherlight|Flasher Light|100|True|
+|762289806|electric.sirenlight|Siren Light|100|True|
 |-690968985|electric.blocker|Blocker|100|True|
 |-1448252298|electrical.branch|Electrical Branch|100|True|
 |-458565393|electrical.combiner|Root Combiner|100|True|
 |-746647361|electrical.memorycell|Memory Cell|100|True|
+|492357192|electric.random.switch|RAND Switch|100|True|
 |-1878475007|explosive.satchel|Satchel Charge|0|False|
 |1248356124|explosive.timed|Timed Explosive Charge|0|False|
 |-592016202|explosives|Explosives|0|False|
@@ -146,6 +153,8 @@
 |999690781|geiger.counter|Geiger Counter|50|False|
 |-295829489|electric.generator.small|Small Generator|100|True|
 |-1819763926|generator.wind.scrap|Wind Turbine|0|False|
+|-695124222|giantcandycanedecor|Giant Candy Decor|100|True|
+|282103175|giantlollipops|Giant Lollipop Decor|100|True|
 |21402876|burlap.gloves.new|Burlap Gloves|0|False|
 |1366282552|burlap.gloves|Leather Gloves|0|False|
 |-699558439|roadsign.gloves|Roadsign Gloves|0|False|
@@ -178,6 +187,7 @@
 |968019378|clatter.helmet|Clatter Helmet|200|False|
 |-803263829|coffeecan.helmet|Coffee Can Helmet|200|True|
 |-1903165497|deer.skull.mask|Bone Helmet|100|True|
+|-22883916|hat.dragonmask|Dragon Mask|0|False|
 |1181207482|heavy.plate.helmet|Heavy Plate Helmet|1000|True|
 |-1539025626|hat.miner|Miners Hat|0|False|
 |-575744869|partyhat|Party Hat|0|False|
@@ -187,6 +197,7 @@
 |-2094954543|wood.armor.helmet|Wood Armor Helmet|100|False|
 |-1252059217|hatchet|Hatchet|400|True|
 |1266491000|hazmatsuit|Hazmat Suit|0|False|
+|-1507239837|electric.hbhfsensor|HBHF Sensor|100|True|
 |-886280491|clone.hemp|Hemp Clone|0|False|
 |-237809779|seed.hemp|Hemp Seed|0|False|
 |794356786|attire.hide.boots|Hide Boots|0|False|
@@ -268,6 +279,7 @@
 |317398316|metal.refined|High Quality Metal|0|False|
 |1882709339|metalblade|Metal Blade|0|False|
 |95950017|metalpipe|Metal Pipe|0|False|
+|1426574435|minihelicopter.repair|MC repair|100|False|
 |-1130709577|mining.pumpjack|Pump Jack|0|False|
 |1052926200|mining.quarry|Mining Quarry|0|False|
 |-542577259|fish.minnows|Minnows|0|False|
@@ -309,6 +321,9 @@
 |803222026|box.repair.bench|Repair Bench|0|False|
 |-1861522751|research.table|Research Table|0|False|
 |-544317637|researchpaper|Research Paper|0|False|
+|-1044468317|electric.rf.broadcaster|RF Broadcaster|100|True|
+|-566907190|rf_pager|RF Pager|100|False|
+|888415708|electric.rf.receiver|RF Receiver|100|True|
 |176787552|riflebody|Rifle Body|0|False|
 |-2002277461|roadsign.jacket|Road Sign Jacket|150|True|
 |1199391518|roadsigns|Road Signs|0|False|
@@ -379,6 +394,7 @@
 |1230323789|smgbody|SMG Body|0|False|
 |1263920163|grenade.smoke|Smoke Grenade|0|False|
 |-363689972|snowball|Snowball|100|True|
+|1358643074|snowmachine|Snow Machine|100|True|
 |1629293099|snowman|Snowman|100|True|
 |2090395347|electric.solarpanel.large|Large Solar Panel|100|True|
 |-41440462|shotgun.spas12|Spas-12 Shotgun|100|True|
