@@ -1,6 +1,9 @@
 |ID|Shortname|Display Name|Max Condition|Is Repairable|
 |:-:|:-:|:-:|:-:|:-|
-|174866732|weapon.mod.8x.scope|8x Zoom Scope|300|False|
+|1055319033|ammo.grenadelauncher.buckshot|40mm Shotgun Round|0|False|
+|349762871|ammo.grenadelauncher.he|40mm HE Grenade|0|False|
+|915408809|ammo.grenadelauncher.smoke|40mm Smoke Grenade|0|False|
+|174866732|weapon.mod.8x.scope|16x Zoom Scope|300|False|
 |1545779598|rifle.ak|Assault Rifle|150|True|
 |588596902|ammo.handmade.shell|Handmade Shell|0|False|
 |785728077|ammo.pistol|Pistol Bullet|0|False|
@@ -221,6 +224,7 @@
 |-484206264|keycard_blue|Blue Keycard|4|False|
 |37122747|keycard_green|Green Keycard|4|False|
 |-1880870149|keycard_red|Red Keycard|4|False|
+|2040726127|knife.combat|Combat Knife|100|True|
 |1814288539|knife.bone|Bone Knife|100|True|
 |-778367295|rifle.l96|L96 Rifle|60|True|
 |-316250604|ladder.wooden.wall|Wooden Ladder|100|True|
@@ -279,6 +283,7 @@
 |317398316|metal.refined|High Quality Metal|0|False|
 |1882709339|metalblade|Metal Blade|0|False|
 |95950017|metalpipe|Metal Pipe|0|False|
+|-1123473824|multiplegrenadelauncher|Multiple Grenade Launcher|200|True|
 |1426574435|minihelicopter.repair|MC repair|100|False|
 |-1130709577|mining.pumpjack|Pump Jack|0|False|
 |1052926200|mining.quarry|Mining Quarry|0|False|
@@ -340,8 +345,9 @@
 |-575483084|santahat|Santa Hat|100|False|
 |177226991|scarecrow|Scarecrow|100|True|
 |-253079493|hazmatsuit_scientist|Scientist Suit|0|False|
+|-1772746857|scientistsuit_heavy|Heavy Scientist Suit|0|False|
 |-1958316066|hazmatsuit_scientist_peacekeeper|Scientist Suit|0|False|
-|567235583|weapon.mod.small.scope|4x Zoom Scope|300|False|
+|567235583|weapon.mod.small.scope|8x Zoom Scope|300|False|
 |-932201673|scrap|Scrap|0|False|
 |2087678962|searchlight|Search Light|0|False|
 |-904863145|rifle.semiauto|Semi-Automatic Rifle|100|True|

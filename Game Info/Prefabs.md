@@ -251,6 +251,8 @@
 |assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab|
 |assets/bundled/prefabs/autospawn/monument/medium/compound.prefab|
 |assets/bundled/prefabs/autospawn/monument/medium/radtown_small_3.prefab|
+|assets/bundled/prefabs/autospawn/monument/offshore/oilrig_1.prefab|
+|assets/bundled/prefabs/autospawn/monument/offshore/oilrig_2.prefab|
 |assets/bundled/prefabs/autospawn/monument/small/gas_station_1.prefab|
 |assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab|
 |assets/bundled/prefabs/autospawn/monument/small/mining_quarry_b.prefab|
@@ -995,6 +997,9 @@
 |assets/bundled/prefabs/hapis/hapis_rock_formation_a.prefab|
 |assets/bundled/prefabs/hapis/military_tunnel_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_building_hapis.prefab|
+|assets/bundled/prefabs/hapis/npcvendingmachine_buyres_hapis.prefab|
+|assets/bundled/prefabs/hapis/npcvendingmachine_food_hapis.prefab|
+|assets/bundled/prefabs/hapis/npcvendingmachine_hapis_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_weapons_hapis.prefab|
 |assets/bundled/prefabs/hapis/old_cave.prefab|
 |assets/bundled/prefabs/hapis/puzzle/hapis_puzzle_blue_1.prefab|
@@ -1107,6 +1112,10 @@
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.sign.update.prefab|
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.sleepingbag.rename.prefab|
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.timerconfig.prefab|
+|assets/bundled/prefabs/ui/dialogs/ui.itemsearchentry.prefab|
+|assets/bundled/prefabs/ui/dialogs/ui.sellorderadmindisplay.prefab|
+|assets/bundled/prefabs/ui/dialogs/ui.vendingadminmenu.prefab|
+|assets/bundled/prefabs/ui/dialogs/ui.vendingoverlay.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.autoturret.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.bbq.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.bigwheel.prefab|
@@ -1214,13 +1223,18 @@
 |assets/content/effects/blood/example prefabs/ps_styleblood_swipe_01.prefab|
 |assets/content/effects/blood/example prefabs/ps_styleblood_swipe_02.prefab|
 |assets/content/effects/candle.prefab|
+|assets/content/effects/liquid/pfx_oil_stream.prefab|
 |assets/content/effects/materials/fog/fog_wall.prefab|
 |assets/content/effects/materials/fog/height_fog.prefab|
 |assets/content/effects/mountainfume/mountainfog.prefab|
 |assets/content/effects/mountainfume/mountainfumes.prefab|
+|assets/content/effects/muzzleflashes/prefabs/ejection_pistolshells.prefab|
+|assets/content/effects/muzzleflashes/prefabs/muzzle_flash.prefab|
+|assets/content/effects/muzzleflashes/prefabs/muzzle_smoketrail.prefab|
 |assets/content/effects/objects/decal_box.prefab|
 |assets/content/effects/snow/weather - snow volume.prefab|
 |assets/content/effects/snow/weather - snow.prefab|
+|assets/content/effects/steam/pfx_steam.prefab|
 |assets/content/effects/water/bullet_trails_underwater_01.prefab|
 |assets/content/effects/water/plankton.prefab|
 |assets/content/effects/water/underwaterbubblesemit.prefab|
@@ -1605,6 +1619,9 @@
 |assets/content/props/barbedwire_set/barbedwire_set_sshape.prefab|
 |assets/content/props/barbedwire_set/barbedwire_set_straight300.prefab|
 |assets/content/props/barbedwire_set/barbedwire_set_up90.prefab|
+|assets/content/props/barrels/fuel_barrel_black.prefab|
+|assets/content/props/barrels/fuel_barrel_red.prefab|
+|assets/content/props/barrels/fuel_barrel_yellow.prefab|
 |assets/content/props/big_button/big_button.prefab|
 |assets/content/props/black bin/blackbin.prefab|
 |assets/content/props/bollard/bollard_a.prefab|
@@ -1647,6 +1664,9 @@
 |assets/content/props/covers/cover_c.prefab|
 |assets/content/props/covers/cover_d.prefab|
 |assets/content/props/covers/cover_e.prefab|
+|assets/content/props/covers/scientist_cover_a.prefab|
+|assets/content/props/covers/scientist_cover_b.prefab|
+|assets/content/props/covers/scientist_cover_c.prefab|
 |assets/content/props/door_barricades_static/door_barricade_a.prefab|
 |assets/content/props/door_barricades_static/door_barricade_b.prefab|
 |assets/content/props/electrical_boxes/electrical_box_a.prefab|
@@ -1663,8 +1683,10 @@
 |assets/content/props/forklift/forklift_a.prefab|
 |assets/content/props/fuel_tank/fuel_tank_a_600.prefab|
 |assets/content/props/fuel_tank/fuel_tank_a_900.prefab|
+|assets/content/props/fuel_tank/fuel_tank_b_300.prefab|
 |assets/content/props/fuel_tank/fuel_tank_b_600.prefab|
 |assets/content/props/fuel_tank/fuel_tank_b_900.prefab|
+|assets/content/props/fuel_tank/fuel_tank_b_900_alt.prefab|
 |assets/content/props/fusebox/fuse.prefab|
 |assets/content/props/fusebox/fusebox.prefab|
 |assets/content/props/gas_canisters/gas_canister_pallet_a.prefab|
@@ -1677,6 +1699,7 @@
 |assets/content/props/helicopter_parts/heli_gun.prefab|
 |assets/content/props/helicopter_parts/heli_leg.prefab|
 |assets/content/props/helicopter_parts/heli_tail.prefab|
+|assets/content/props/hvac_exhausts/hvac_exhausts.prefab|
 |assets/content/props/industrial_fixtures/vent_a.prefab|
 |assets/content/props/industrial_fixtures/vent_b.prefab|
 |assets/content/props/industrial_fixtures/vent_c.prefab|
@@ -1719,8 +1742,14 @@
 |assets/content/props/light_fixtures/sirenlight_upright.prefab|
 |assets/content/props/light_fixtures/spotlight.off.prefab|
 |assets/content/props/light_fixtures/spotlight.on.prefab|
+|assets/content/props/light_fixtures/v2/plight.flare.prefab|
+|assets/content/props/light_fixtures/v2/plight.fluorescent.off.prefab|
 |assets/content/props/light_fixtures/v2/plight.fluorescent.on.cold.prefab|
 |assets/content/props/light_fixtures/v2/plight.fluorescent.on.warm.prefab|
+|assets/content/props/light_fixtures/v2/plight.fluorescent.pole.cold.prefab|
+|assets/content/props/light_fixtures/v2/plight.fluorescent.pole.off.prefab|
+|assets/content/props/light_fixtures/v2/plight.fluorescent.pole.warm.prefab|
+|assets/content/props/light_fixtures/v2/plight.hanging.bulbs.warm.prefab|
 |assets/content/props/light_fixtures/v2/plight.industrial.ceiling.lamp.compact.off.prefab|
 |assets/content/props/light_fixtures/v2/plight.industrial.ceiling.lamp.compact.on.prefab|
 |assets/content/props/light_fixtures/v2/plight.industrial.ceiling.lamp.off.prefab|
@@ -1729,12 +1758,34 @@
 |assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.cool.prefab|
 |assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.red.prefab|
 |assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab|
+|assets/content/props/light_fixtures/v2/plight.industrial.wall2.lamp.on.cold.prefab|
+|assets/content/props/light_fixtures/v2/plight.industrial.wall2.lamp.on.warm.prefab|
+|assets/content/props/light_fixtures/v2/plight.siren.orange.off.prefab|
+|assets/content/props/light_fixtures/v2/plight.siren.orange.spinning.prefab|
+|assets/content/props/light_fixtures/v2/plight.siren.red.off.prefab|
+|assets/content/props/light_fixtures/v2/plight.siren.red.on.prefab|
 |assets/content/props/light_fixtures/v2/plight.spotlight.on.cool.prefab|
+|assets/content/props/light_fixtures/v2/plight.streetlight.detached.on.prefab|
+|assets/content/props/light_fixtures/v2/plight.streetlight.on.prefab|
 |assets/content/props/light_fixtures/v2/radtown work prefabs/airfield lighting.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/cargoship exhaust.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/cargoship interior lighting.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/clone_vat_fx.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/compound lighting.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/lighthousefx-ph.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/militarytunnel lighting v2.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/oil rig exhaust flame v2.1.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/oil rig exhaust flame v2.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/oil rig exhaust flame.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/oil rig fx.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/oil rig lighting.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/small oil rig fx.prefab|
+|assets/content/props/light_fixtures/v2/radtown work prefabs/small oil rig lighting.prefab|
 |assets/content/props/light_fixtures/walllight.prefab|
 |assets/content/props/light_fixtures/walllight_on.prefab|
 |assets/content/props/lightpost/lightpost_a.prefab|
 |assets/content/props/lightpost/lightpost_b.prefab|
+|assets/content/props/liquid_gas_tank/liquid_gas_tank_600.prefab|
 |assets/content/props/lockers/locker_a.prefab|
 |assets/content/props/lockers/locker_a_open.prefab|
 |assets/content/props/lockers/locker_b.prefab|
@@ -1857,6 +1908,8 @@
 |assets/content/props/pipes/pipe_e/pipe_e_crn_150x50.prefab|
 |assets/content/props/pipes/pipe_pile/pipe_pile_a.prefab|
 |assets/content/props/pipes/pipe_pile/pipe_pile_b.prefab|
+|assets/content/props/pipes/pipe_pile/pipe_pile_c.prefab|
+|assets/content/props/pipes/pipe_pile/pipe_pile_d.prefab|
 |assets/content/props/plant pots/plantpot.prefab|
 |assets/content/props/plant pots/plantpotsset1.prefab|
 |assets/content/props/pots/kettle.prefab|
@@ -1896,6 +1949,20 @@
 |assets/content/props/sentry_scientists/sentry.scientist.static.prefab|
 |assets/content/props/sentry_scientists/sentry_scientists.prefab|
 |assets/content/props/shelves/shelves_300x150.prefab|
+|assets/content/props/shipping_containers/shipping_container_300_a_black.prefab|
+|assets/content/props/shipping_containers/shipping_container_300_a_blue.prefab|
+|assets/content/props/shipping_containers/shipping_container_300_a_green.prefab|
+|assets/content/props/shipping_containers/shipping_container_300_a_navy.prefab|
+|assets/content/props/shipping_containers/shipping_container_300_a_red.prefab|
+|assets/content/props/shipping_containers/shipping_container_300_a_white.prefab|
+|assets/content/props/shipping_containers/shipping_container_300_a_yellow.prefab|
+|assets/content/props/shipping_containers/shipping_container_600_a_black.prefab|
+|assets/content/props/shipping_containers/shipping_container_600_a_blue.prefab|
+|assets/content/props/shipping_containers/shipping_container_600_a_green.prefab|
+|assets/content/props/shipping_containers/shipping_container_600_a_navy.prefab|
+|assets/content/props/shipping_containers/shipping_container_600_a_red.prefab|
+|assets/content/props/shipping_containers/shipping_container_600_a_white.prefab|
+|assets/content/props/shipping_containers/shipping_container_600_a_yellow.prefab|
 |assets/content/props/shipping_containers/shipping_container_900_a_black.prefab|
 |assets/content/props/shipping_containers/shipping_container_900_a_blue.prefab|
 |assets/content/props/shipping_containers/shipping_container_900_a_blue_snow.prefab|
@@ -2020,6 +2087,8 @@
 |assets/content/sound/ambience/baseambienceemitter.prefab|
 |assets/content/sound/ambience/lifeambienceemitter.prefab|
 |assets/content/sound/ambience/rainambienceemitter.prefab|
+|assets/content/sound/oilrig/oilriglargeaudio.prefab|
+|assets/content/sound/oilrig/oilrigsmallaudio.prefab|
 |assets/content/sound/templates/ambience.sound-template.prefab|
 |assets/content/sound/templates/bullet-flyby.prefab|
 |assets/content/sound/templates/dangerous-npc-footstep.prefab|
@@ -2403,6 +2472,18 @@
 |assets/content/structures/office_interiors/office_b_floor_0.prefab|
 |assets/content/structures/office_interiors/office_b_floor_3.prefab|
 |assets/content/structures/office_interiors/vent_door_static.prefab|
+|assets/content/structures/oilrig/burner.prefab|
+|assets/content/structures/oilrig/burner_barriers.prefab|
+|assets/content/structures/oilrig/comms_tower.prefab|
+|assets/content/structures/oilrig/comms_tower_barriers.prefab|
+|assets/content/structures/oilrig/helipad.prefab|
+|assets/content/structures/oilrig/helipad_barriers.prefab|
+|assets/content/structures/oilrig/oilrig_stairs_large.prefab|
+|assets/content/structures/oilrig/oilrig_stairs_small.prefab|
+|assets/content/structures/oilrig_crane/oilrig_crane.prefab|
+|assets/content/structures/oilrig_crane/oilrig_crane_pillar.prefab|
+|assets/content/structures/oilrig_evacutation_pipes/oilrig_evacuation_pipes.prefab|
+|assets/content/structures/oilrig_exhausts/oilrig_exhausts.prefab|
 |assets/content/structures/perimeter_walls/perimeter_wall_corner.prefab|
 |assets/content/structures/perimeter_walls/perimeter_wall_end.prefab|
 |assets/content/structures/perimeter_walls/perimeter_wall_gradient_150.prefab|
@@ -2796,7 +2877,10 @@
 |assets/content/ui/filedialog/uifileselector.prefab|
 |assets/content/ui/ingame/achievements/achievmentitem.prefab|
 |assets/content/ui/ingame/craftingqueue.icon.prefab|
+|assets/content/ui/ingame/pieoption.prefab|
 |assets/content/ui/ingame/teamdisplay/teammember.prefab|
+|assets/content/ui/ingame/tooltip.prefab|
+|assets/content/ui/ingame/tooltip_alwaysontop.prefab|
 |assets/content/ui/ingame/ui.blueprint.button.prefab|
 |assets/content/ui/ingame/ui.blueprint.category.button.prefab|
 |assets/content/ui/ingame/ui.blueprint.craft.row.prefab|
@@ -2826,6 +2910,10 @@
 |assets/content/ui/ingame/ui.vital.prefab|
 |assets/content/ui/ingame/ui.vital.warning.prefab|
 |assets/content/ui/ingame/underlays/ui.damage.directional.prefab|
+|assets/content/ui/ingame/workshopitembutton.prefab|
+|assets/content/ui/ingame/workshopitemrow.prefab|
+|assets/content/ui/ingame/xpparticle.prefab|
+|assets/content/ui/ingame/xpupdateparticle.prefab|
 |assets/content/ui/menu/steaminventory/ui.steaminventory.category.prefab|
 |assets/content/ui/menu/steaminventory/ui.steaminventory.craftbutton.prefab|
 |assets/content/ui/menu/steaminventory/ui.steaminventory.item.prefab|
@@ -2897,31 +2985,57 @@
 |assets/content/weapons/_gestures/effects/drink.prefab|
 |assets/content/weapons/_gestures/effects/eat_1hand_celery.prefab|
 |assets/content/weapons/_gestures/effects/eat_2hand_chewymeat.prefab|
+|assets/prefabs/ammo/40mmgrenade/40mm_buckshot.item.prefab|
+|assets/prefabs/ammo/40mmgrenade/40mm_grenade_he.item.prefab|
+|assets/prefabs/ammo/40mmgrenade/40mm_grenade_he.prefab|
+|assets/prefabs/ammo/40mmgrenade/40mm_grenade_smoke.item.prefab|
+|assets/prefabs/ammo/40mmgrenade/40mm_grenade_smoke.prefab|
+|assets/prefabs/ammo/40mmgrenade/effects/40mm_he_explosion.prefab|
 |assets/prefabs/ammo/arrow/arrow.prefab|
+|assets/prefabs/ammo/arrow/arrow_hv.item.prefab|
 |assets/prefabs/ammo/arrow/arrow_hv.prefab|
 |assets/prefabs/ammo/arrow/arrow_hv.worldmodel.prefab|
 |assets/prefabs/ammo/arrow/arrow_stone.worldmodel.prefab|
+|assets/prefabs/ammo/arrow/arrow_wooden.item.prefab|
 |assets/prefabs/ammo/arrow/arrow_wooden.prefab|
 |assets/prefabs/ammo/arrow/arrow_wooden.worldmodel.prefab|
+|assets/prefabs/ammo/arrow/bone/arrow_bone.item.prefab|
 |assets/prefabs/ammo/arrow/bone/arrow_bone.prefab|
 |assets/prefabs/ammo/arrow/bone/arrow_bone.worldmodel.prefab|
+|assets/prefabs/ammo/arrow/fire/arrow_fire.item.prefab|
 |assets/prefabs/ammo/arrow/fire/arrow_fire.prefab|
 |assets/prefabs/ammo/arrow/fire/arrow_fire.worldmodel.prefab|
 |assets/prefabs/ammo/arrow/fire/fireexplosion.prefab|
+|assets/prefabs/ammo/handmade shell/ammo_handmade_shell.item.prefab|
 |assets/prefabs/ammo/handmade shell/handmade_shell.projectile.prefab|
 |assets/prefabs/ammo/nails/nail.prefab|
 |assets/prefabs/ammo/nails/nail.worldmodel.prefab|
+|assets/prefabs/ammo/nails/nailgunnail.item.prefab|
+|assets/prefabs/ammo/pistol/ammo_pistol.item.prefab|
+|assets/prefabs/ammo/pistol/ammo_pistol_fire.item.prefab|
+|assets/prefabs/ammo/pistol/ammo_pistol_hv.item.prefab|
 |assets/prefabs/ammo/pistol/pistolbullet.prefab|
 |assets/prefabs/ammo/pistol/pistolbullet_fire.prefab|
+|assets/prefabs/ammo/rifle/ammo_rifle.item.prefab|
+|assets/prefabs/ammo/rifle/ammo_rifle_explosive.item.prefab|
+|assets/prefabs/ammo/rifle/ammo_rifle_fire.item.prefab|
+|assets/prefabs/ammo/rifle/ammo_rifle_hv.item.prefab|
 |assets/prefabs/ammo/rifle/riflebullet.prefab|
 |assets/prefabs/ammo/rifle/riflebullet_explosive.prefab|
 |assets/prefabs/ammo/rifle/riflebullet_fire.prefab|
+|assets/prefabs/ammo/rocket/ammo_rocket_basic.item.prefab|
+|assets/prefabs/ammo/rocket/ammo_rocket_fire.item.prefab|
+|assets/prefabs/ammo/rocket/ammo_rocket_hv.item.prefab|
+|assets/prefabs/ammo/rocket/ammo_rocket_smoke.item.prefab|
 |assets/prefabs/ammo/rocket/rocket.projectile.prefab|
 |assets/prefabs/ammo/rocket/rocket.worldmodel.prefab|
 |assets/prefabs/ammo/rocket/rocket_basic.prefab|
 |assets/prefabs/ammo/rocket/rocket_fire.prefab|
 |assets/prefabs/ammo/rocket/rocket_hv.prefab|
 |assets/prefabs/ammo/rocket/rocket_smoke.prefab|
+|assets/prefabs/ammo/shotgun/ammo_shotgun.item.prefab|
+|assets/prefabs/ammo/shotgun/ammo_shotgun_fire.item.prefab|
+|assets/prefabs/ammo/shotgun/ammo_shotgun_slug.item.prefab|
 |assets/prefabs/ammo/shotgun/shotgunbullet.prefab|
 |assets/prefabs/ammo/shotgun/shotgunbullet_fire.prefab|
 |assets/prefabs/ammo/shotgun/shotgunslug.prefab|
@@ -3073,8 +3187,11 @@
 |assets/prefabs/building core/wall/wall.wood.left.prefab|
 |assets/prefabs/building core/wall/wall.wood.prefab|
 |assets/prefabs/building core/wall/wall.wood.right.prefab|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.metal.item.prefab|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.metal.prefab|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.item.prefab|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.prefab|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.wood.item.prefab|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-end.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-start.prefab|
@@ -3082,8 +3199,11 @@
 |assets/prefabs/building/door.double.hinged/effects/door-double-wood-close-end.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-wood-close-start.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-wood-open-start.prefab|
+|assets/prefabs/building/door.hinged/door.hinged.metal.item.prefab|
 |assets/prefabs/building/door.hinged/door.hinged.metal.prefab|
+|assets/prefabs/building/door.hinged/door.hinged.toptier.item.prefab|
 |assets/prefabs/building/door.hinged/door.hinged.toptier.prefab|
+|assets/prefabs/building/door.hinged/door.hinged.wood.item.prefab|
 |assets/prefabs/building/door.hinged/door.hinged.wood.prefab|
 |assets/prefabs/building/door.hinged/effects/door-metal-close-end.prefab|
 |assets/prefabs/building/door.hinged/effects/door-metal-close-start.prefab|
@@ -3108,25 +3228,35 @@
 |assets/prefabs/building/door.hinged/effects/gate-external-wood-open-end.prefab|
 |assets/prefabs/building/door.hinged/effects/gate-external-wood-open-start.prefab|
 |assets/prefabs/building/floor.grill/effects/floor-grill-deploy.prefab|
+|assets/prefabs/building/floor.grill/floor.grill.item.prefab|
 |assets/prefabs/building/floor.grill/floor.grill.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-close-end.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-close-start.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-deploy.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-open-start.prefab|
+|assets/prefabs/building/floor.ladder.hatch/floor.ladder.hatch.item.prefab|
 |assets/prefabs/building/floor.ladder.hatch/floor.ladder.hatch.prefab|
+|assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.item.prefab|
 |assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab|
+|assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.item.prefab|
 |assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab|
 |assets/prefabs/building/ladder.wall.wood/effects/wood-ladder-deploy.prefab|
+|assets/prefabs/building/ladder.wall.wood/ladder.wooden.wall.item.prefab|
 |assets/prefabs/building/ladder.wall.wood/ladder.wooden.wall.prefab|
+|assets/prefabs/building/ladder.wall.wood/ladder_prop.prefab|
 |assets/prefabs/building/wall.external.high.stone/effects/wall-external-stone-deploy.prefab|
+|assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.item.prefab|
 |assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.prefab|
 |assets/prefabs/building/wall.external.high.wood/effects/wall-external-wood-deploy.prefab|
+|assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.item.prefab|
 |assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.prefab|
 |assets/prefabs/building/wall.frame.cell/effects/cell-wall-door-deploy.prefab|
 |assets/prefabs/building/wall.frame.cell/effects/door-cell-metal-close-end.prefab|
 |assets/prefabs/building/wall.frame.cell/effects/door-cell-metal-close-start.prefab|
 |assets/prefabs/building/wall.frame.cell/effects/door-cell-metal-open-start.prefab|
+|assets/prefabs/building/wall.frame.cell/wall.frame.cell.gate.item.prefab|
 |assets/prefabs/building/wall.frame.cell/wall.frame.cell.gate.prefab|
+|assets/prefabs/building/wall.frame.cell/wall.frame.cell.item.prefab|
 |assets/prefabs/building/wall.frame.cell/wall.frame.cell.prefab|
 |assets/prefabs/building/wall.frame.fence/effects/chain-link-fence-deploy.prefab|
 |assets/prefabs/building/wall.frame.fence/effects/chain-link-impact.prefab|
@@ -3134,13 +3264,17 @@
 |assets/prefabs/building/wall.frame.fence/effects/door-fence-metal-close-start.prefab|
 |assets/prefabs/building/wall.frame.fence/effects/door-fence-metal-open-end.prefab|
 |assets/prefabs/building/wall.frame.fence/effects/door-fence-metal-open-start.prefab|
+|assets/prefabs/building/wall.frame.fence/wall.frame.fence.gate.item.prefab|
 |assets/prefabs/building/wall.frame.fence/wall.frame.fence.gate.prefab|
+|assets/prefabs/building/wall.frame.fence/wall.frame.fence.item.prefab|
 |assets/prefabs/building/wall.frame.fence/wall.frame.fence.prefab|
 |assets/prefabs/building/wall.frame.garagedoor/effects/garagedoor.movement.begin.prefab|
 |assets/prefabs/building/wall.frame.garagedoor/effects/garagedoor.movement.finish.close.prefab|
 |assets/prefabs/building/wall.frame.garagedoor/effects/garagedoor.movement.finish.open.prefab|
+|assets/prefabs/building/wall.frame.garagedoor/wall.frame.garagedoor.item.prefab|
 |assets/prefabs/building/wall.frame.garagedoor/wall.frame.garagedoor.prefab|
 |assets/prefabs/building/wall.frame.netting/effects/netting-deploy.prefab|
+|assets/prefabs/building/wall.frame.netting/wall.frame.netting.item.prefab|
 |assets/prefabs/building/wall.frame.netting/wall.frame.netting.prefab|
 |assets/prefabs/building/wall.frame.shopfront/effects/door-small-wood-close-end.prefab|
 |assets/prefabs/building/wall.frame.shopfront/effects/door-small-wood-close-start.prefab|
@@ -3148,63 +3282,91 @@
 |assets/prefabs/building/wall.frame.shopfront/effects/door-small-wood-open-start.prefab|
 |assets/prefabs/building/wall.frame.shopfront/effects/metal_transaction_complete.prefab|
 |assets/prefabs/building/wall.frame.shopfront/effects/shop-front-deploy.prefab|
+|assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.item.prefab|
+|assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.item.prefab|
 |assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.prefab|
 |assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.prefab|
 |assets/prefabs/building/wall.window.bars/effects/window-bars-metal-deploy.prefab|
 |assets/prefabs/building/wall.window.bars/effects/window-bars-wood-deploy.prefab|
+|assets/prefabs/building/wall.window.bars/wall.window.bars.metal.item.prefab|
 |assets/prefabs/building/wall.window.bars/wall.window.bars.metal.prefab|
+|assets/prefabs/building/wall.window.bars/wall.window.bars.toptier.item.prefab|
 |assets/prefabs/building/wall.window.bars/wall.window.bars.toptier.prefab|
+|assets/prefabs/building/wall.window.bars/wall.window.bars.wood.item.prefab|
 |assets/prefabs/building/wall.window.bars/wall.window.bars.wood.prefab|
 |assets/prefabs/building/wall.window.embrasure/effects/window-embrasure-deploy.prefab|
+|assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.a.item.prefab|
 |assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.a.prefab|
+|assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.b.item.prefab|
 |assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.b.prefab|
 |assets/prefabs/building/wall.window.reinforcedglass/effects/reinforced-glass-window-deploy.prefab|
+|assets/prefabs/building/wall.window.reinforcedglass/wall.window.glass.reinforced.item.prefab|
 |assets/prefabs/building/wall.window.reinforcedglass/wall.window.glass.reinforced.prefab|
 |assets/prefabs/building/wall.window.shutter/effects/shutter-wood-deploy.prefab|
 |assets/prefabs/building/wall.window.shutter/effects/shutters-wood-close-end.prefab|
 |assets/prefabs/building/wall.window.shutter/effects/shutters-wood-close-start.prefab|
 |assets/prefabs/building/wall.window.shutter/effects/shutters-wood-open-end.prefab|
 |assets/prefabs/building/wall.window.shutter/effects/shutters-wood-open-start.prefab|
+|assets/prefabs/building/wall.window.shutter/shutter.wood.a.item.prefab|
 |assets/prefabs/building/wall.window.shutter/shutter.wood.a.prefab|
+|assets/prefabs/building/watchtower.wood/watchtower.wood.item.prefab|
 |assets/prefabs/building/watchtower.wood/watchtower.wood.prefab|
 |assets/prefabs/clothes/collider/collider_feet.prefab|
 |assets/prefabs/clothes/collider/collider_hands.prefab|
 |assets/prefabs/clothes/collider/collider_head.prefab|
 |assets/prefabs/clothes/collider/collider_legs.prefab|
 |assets/prefabs/clothes/collider/collider_torso.prefab|
+|assets/prefabs/clothes/diving.fins/diving.fins.item.prefab|
 |assets/prefabs/clothes/diving.fins/diving.fins.prefab|
 |assets/prefabs/clothes/diving.fins/divingfins_worldmodel.prefab|
+|assets/prefabs/clothes/diving.mask/diving.mask.item.prefab|
 |assets/prefabs/clothes/diving.mask/diving.mask.prefab|
 |assets/prefabs/clothes/diving.mask/divingmask_worldmodel.prefab|
+|assets/prefabs/clothes/diving.tank/diving.tank.item.prefab|
 |assets/prefabs/clothes/diving.tank/diving.tank.wearable.prefab|
 |assets/prefabs/clothes/diving.tank/divingtank_worldmodel.prefab|
 |assets/prefabs/clothes/diving.tank/effects/exhale_bubbles.prefab|
 |assets/prefabs/clothes/diving.tank/effects/scuba_exhale.prefab|
 |assets/prefabs/clothes/diving.tank/effects/scuba_inhale.prefab|
 |assets/prefabs/clothes/diving.tank/effects/tank_refill.prefab|
+|assets/prefabs/clothes/diving.wetsuit/diving.wetsuit.item.prefab|
 |assets/prefabs/clothes/diving.wetsuit/diving.wetsuit.prefab|
 |assets/prefabs/clothes/diving.wetsuit/diving.wetsuit.viewmodel.prefab|
+|assets/prefabs/clothes/frogboots/frogboots.item.prefab|
 |assets/prefabs/clothes/frogboots/frogboots.prefab|
 |assets/prefabs/clothes/frogboots/frogboots_worldmodel.prefab|
 |assets/prefabs/clothes/fun/barrel/barrel.wearable.prefab|
+|assets/prefabs/clothes/fun/barrel/barrelcostume.item.prefab|
+|assets/prefabs/clothes/gloves.burlap/gloves.burlap.item.prefab|
 |assets/prefabs/clothes/gloves.burlap/gloves.burlap.prefab|
 |assets/prefabs/clothes/gloves.burlap/gloves.burlap_viewmodel.prefab|
 |assets/prefabs/clothes/gloves.burlap/gloves.burlap_wordmodel.prefab|
+|assets/prefabs/clothes/gloves.leather/gloves.leather.item.prefab|
 |assets/prefabs/clothes/gloves.leather/gloves.leather.prefab|
 |assets/prefabs/clothes/gloves.leather/gloves.leather.viewmodel.prefab|
 |assets/prefabs/clothes/gloves.leather/leather_gloves_worldmodel.prefab|
+|assets/prefabs/clothes/gloves.roadsign/gloves.roadsign.item.prefab|
 |assets/prefabs/clothes/gloves.roadsign/roadsigngloves.prefab|
 |assets/prefabs/clothes/gloves.roadsign/roadsigngloves_viewmodel.prefab|
+|assets/prefabs/clothes/gloves.tactical/gloves.tactical.item.prefab|
 |assets/prefabs/clothes/gloves.tactical/gloves.tactical.prefab|
 |assets/prefabs/clothes/gloves.tactical/gloves.tactical.viewmodel.prefab|
 |assets/prefabs/clothes/gloves.tactical/gloves.tactical.worldmodel.prefab|
 |assets/prefabs/clothes/hair/armpithair/female_armpit_hair_01.prefab|
+|assets/prefabs/clothes/hair/armpithair/female_armpithair.style01.item.prefab|
 |assets/prefabs/clothes/hair/armpithair/male_armpit_hair_01.prefab|
+|assets/prefabs/clothes/hair/armpithair/male_armpithair.style01.item.prefab|
+|assets/prefabs/clothes/hair/eyebrowhair/female_eyebrow.style01.item.prefab|
 |assets/prefabs/clothes/hair/eyebrowhair/female_eyebrows_01.prefab|
+|assets/prefabs/clothes/hair/eyebrowhair/male_eyebrow.style01.item 1.prefab|
 |assets/prefabs/clothes/hair/eyebrowhair/male_eyebrows_01.prefab|
+|assets/prefabs/clothes/hair/facialhair_style01/facialhair.style01.item.prefab|
 |assets/prefabs/clothes/hair/facialhair_style01/facialhair.style01.prefab|
 |assets/prefabs/clothes/hair/facialhair_style01/male_facial_hairstyle_1.prefab|
+|assets/prefabs/clothes/hair/facialhair_style02/male.facialhair.style02.item.prefab|
 |assets/prefabs/clothes/hair/facialhair_style02/male_facial_hairstyle_02.prefab|
+|assets/prefabs/clothes/hair/facialhair_style03/male.facialhair.style03.item.prefab|
+|assets/prefabs/clothes/hair/facialhair_style04/male.facialhair.style04.item.prefab|
 |assets/prefabs/clothes/hair/facialhair_style04/male_facial_hairstyle_04.prefab|
 |assets/prefabs/clothes/hair/hair_armpit.prefab|
 |assets/prefabs/clothes/hair/hair_eyebrow.prefab|
@@ -3212,99 +3374,152 @@
 |assets/prefabs/clothes/hair/hair_head.prefab|
 |assets/prefabs/clothes/hair/hair_pubic.prefab|
 |assets/prefabs/clothes/hair/hair_style01/female_hairstyle_01.prefab|
+|assets/prefabs/clothes/hair/hair_style01/femalehair.style01.item.prefab|
+|assets/prefabs/clothes/hair/hair_style01/hair.style01.item.prefab|
 |assets/prefabs/clothes/hair/hair_style01/hair.style01.prefab|
 |assets/prefabs/clothes/hair/hair_style01/male_hairstyle_01.prefab|
 |assets/prefabs/clothes/hair/hair_style02/female.hair.style02.prefab|
 |assets/prefabs/clothes/hair/hair_style02/female_hairstyle_02.prefab|
+|assets/prefabs/clothes/hair/hair_style02/hair.style02.item.prefab|
+|assets/prefabs/clothes/hair/hair_style02/male.hair.style02.item.prefab|
 |assets/prefabs/clothes/hair/hair_style02/male_hairstyle_02.prefab|
 |assets/prefabs/clothes/hair/hair_style03/female_hairstyle_03.prefab|
+|assets/prefabs/clothes/hair/hair_style03/femalehair.style03.item.prefab|
 |assets/prefabs/clothes/hair/hair_style03/male_hairstyle_03.prefab|
+|assets/prefabs/clothes/hair/hair_style03/malehair.style03.item.prefab|
+|assets/prefabs/clothes/hair/hair_style04/male.hair.style04.item.prefab|
 |assets/prefabs/clothes/hair/hair_style04/male_hairstyle_04.prefab|
 |assets/prefabs/clothes/hair/hair_style05/female_hairstyle_05.prefab|
+|assets/prefabs/clothes/hair/hair_style05/femalehair.style05.item.prefab|
 |assets/prefabs/clothes/hair/hair_style05/male_hairstyle_05.prefab|
+|assets/prefabs/clothes/hair/hair_style05/malehair.style05.item.prefab|
+|assets/prefabs/clothes/hair/pubichair/female_pubichair.style01.item.prefab|
+|assets/prefabs/clothes/hair/pubichair/male_pubichair.style01.item.prefab|
 |assets/prefabs/clothes/hair/pubichair/pubic_hair_female_01.prefab|
 |assets/prefabs/clothes/hair/pubichair/pubic_hair_male_01.prefab|
+|assets/prefabs/clothes/halloween.scarecrow/halloween.scarecrow.item.prefab|
+|assets/prefabs/clothes/halloween.scarecrow/halloween.scarecrowhead.item.prefab|
 |assets/prefabs/clothes/halloween.scarecrow/scarecrow.prefab|
 |assets/prefabs/clothes/halloween.scarecrow/scarecrowhead.prefab|
+|assets/prefabs/clothes/halterneck.hide/halterneck.hide.item.prefab|
 |assets/prefabs/clothes/halterneck.hide/halterneck.hide.prefab|
+|assets/prefabs/clothes/hat.beenie/base/hat.beenie.item.prefab|
 |assets/prefabs/clothes/hat.beenie/hat.beenie.prefab|
 |assets/prefabs/clothes/hat.beenie/player_urban_hat_worldmodel.prefab|
+|assets/prefabs/clothes/hat.boonie/hat.boonie.item.prefab|
 |assets/prefabs/clothes/hat.boonie/hat.boonie.prefab|
 |assets/prefabs/clothes/hat.boonie/hatboonie_worldmodel.prefab|
+|assets/prefabs/clothes/hat.bucket/hat.bucket.item.prefab|
 |assets/prefabs/clothes/hat.bucket/hat.bucket.prefab|
 |assets/prefabs/clothes/hat.bucket/metal_improvised_helmet_02_worldmodel.prefab|
 |assets/prefabs/clothes/hat.burlap.wrap/burlap_headwrap_02.prefab|
 |assets/prefabs/clothes/hat.burlap.wrap/burlapheadwraps_01_worldmodel.prefab|
+|assets/prefabs/clothes/hat.burlap.wrap/hat.burlap.wrap.item.prefab|
 |assets/prefabs/clothes/hat.burlap.wrap/hat.burlap.wrap.prefab|
 |assets/prefabs/clothes/hat.candle/candlehat.prefab|
 |assets/prefabs/clothes/hat.candle/candlehat_worldmodel.prefab|
+|assets/prefabs/clothes/hat.candle/hat.candle.item.prefab|
+|assets/prefabs/clothes/hat.cap/base/hat.cap.base.item.prefab|
 |assets/prefabs/clothes/hat.cap/hat.cap.prefab|
 |assets/prefabs/clothes/hat.cap/hatcap_worldmodel.prefab|
+|assets/prefabs/clothes/hat.clatterhelmet/hat.clatter.item.prefab|
 |assets/prefabs/clothes/hat.clatterhelmet/hat.clatterhelmet.prefab|
 |assets/prefabs/clothes/hat.clatterhelmet/hat.clatterhelmet_worldmodel.prefab|
 |assets/prefabs/clothes/hat.coffeecan/coffeecanhelmet_worldmodel.prefab|
+|assets/prefabs/clothes/hat.coffeecan/hat.coffeecan.item.prefab|
 |assets/prefabs/clothes/hat.coffeecan/hat.coffeecan.prefab|
+|assets/prefabs/clothes/hat.deerskullmask/hat.deerskullmask.item.prefab|
 |assets/prefabs/clothes/hat.deerskullmask/hat.deerskullmask.prefab|
 |assets/prefabs/clothes/hat.deerskullmask/hat.deerskullmask_worldmodel.prefab|
+|assets/prefabs/clothes/hat.heavyplate/hat.heavyplate.item.prefab|
 |assets/prefabs/clothes/hat.heavyplate/heavyplatehelmet.prefab|
 |assets/prefabs/clothes/hat.heavyplate/heavyplatehelmet_wm.prefab|
+|assets/prefabs/clothes/hat.miner/hat.miner.item.prefab|
 |assets/prefabs/clothes/hat.miner/hat.miner.prefab|
 |assets/prefabs/clothes/hat.miner/hatminer_worldmodel.prefab|
+|assets/prefabs/clothes/hat.partyhat/hat.party.item.prefab|
 |assets/prefabs/clothes/hat.partyhat/party_hat.prefab|
 |assets/prefabs/clothes/hat.partyhat/party_hat_worldmodel.prefab|
+|assets/prefabs/clothes/hat.riot/hat.riot.item.prefab|
 |assets/prefabs/clothes/hat.riot/hat.riot.prefab|
 |assets/prefabs/clothes/hat.riot/hatriot_worldmodel.prefab|
+|assets/prefabs/clothes/hat.woodarmor/hat.woodarmor.item.prefab|
 |assets/prefabs/clothes/hat.woodarmor/hat.woodarmor.prefab|
 |assets/prefabs/clothes/hat.woodarmor/hatwoodarmor_worldmodel.prefab|
 |assets/prefabs/clothes/hoodie/hoodie.prefab|
+|assets/prefabs/clothes/hoodie/hoodie.red.item.prefab|
 |assets/prefabs/clothes/hoodie/hoodie.viewmodel.prefab|
 |assets/prefabs/clothes/hoodie/player_urban_torso_worldmodel.prefab|
 |assets/prefabs/clothes/jacket.bonearmor/bonearmour.prefab|
 |assets/prefabs/clothes/jacket.bonearmor/bonearmour_worldmodel.prefab|
+|assets/prefabs/clothes/jacket.bonearmor/jacket.bonearmor.item.prefab|
 |assets/prefabs/clothes/jacket.bonearmor/jacket.bonearmor.viewmodel.prefab|
 |assets/prefabs/clothes/jacket.heavyplate/heavyplatejacket.prefab|
 |assets/prefabs/clothes/jacket.heavyplate/heavyplatejacket_wm.prefab|
+|assets/prefabs/clothes/jacket.heavyplate/jacket.heavyplate.item.prefab|
 |assets/prefabs/clothes/jacket.heavyplate/jacket.heavyplate.viewmodel.prefab|
+|assets/prefabs/clothes/jacket.snow/jacket.snow.item.prefab|
 |assets/prefabs/clothes/jacket.snow/jacket.snow.prefab|
 |assets/prefabs/clothes/jacket.snow/jacket.snow.viewmodel.prefab|
 |assets/prefabs/clothes/jacket.snow/jacket_snow_worldmodel.prefab|
+|assets/prefabs/clothes/jacket.vagabond/jacket.vagabond.item.prefab|
 |assets/prefabs/clothes/jacket.vagabond/jacket.vagabond.prefab|
 |assets/prefabs/clothes/jacket.vagabond/jacket.vagabond.viewmodel.prefab|
 |assets/prefabs/clothes/jacket.vagabond/jacket_mid_torso_worldmodel.prefab|
+|assets/prefabs/clothes/jacket.woodarmor/wood_armor_jacket.item.prefab|
 |assets/prefabs/clothes/jacket.woodarmor/woodarmor_jacket.prefab|
 |assets/prefabs/clothes/jacket.woodarmor/woodarmor_jacket_worldmodel.prefab|
+|assets/prefabs/clothes/mask.balaclava/mask.balaclava.item.prefab|
 |assets/prefabs/clothes/mask.balaclava/mask.balaclava.prefab|
 |assets/prefabs/clothes/mask.balaclava/maskbalaclava_worldmodel.prefab|
+|assets/prefabs/clothes/mask.bandana/mask.bandana.item.prefab|
 |assets/prefabs/clothes/mask.bandana/mask.bandana.prefab|
 |assets/prefabs/clothes/mask.bandana/maskbandana_worldmodel.prefab|
+|assets/prefabs/clothes/mask.metal/mask.metal.item.prefab|
 |assets/prefabs/clothes/mask.metal/mask.metal.prefab|
 |assets/prefabs/clothes/mask.metal/mask.metal.worldmodel.prefab|
 |assets/prefabs/clothes/pants.burlap/burlap_pants_worldmodel.prefab|
+|assets/prefabs/clothes/pants.burlap/pants.burlap.item.prefab|
 |assets/prefabs/clothes/pants.burlap/pants.burlap.prefab|
 |assets/prefabs/clothes/pants.heavyplate/heavyplatepants.prefab|
 |assets/prefabs/clothes/pants.heavyplate/heavyplatepants_wm.prefab|
+|assets/prefabs/clothes/pants.heavyplate/pants.heavyplate.item.prefab|
+|assets/prefabs/clothes/pants.hide/pants.hide.item.prefab|
 |assets/prefabs/clothes/pants.hide/pants.hide.prefab|
+|assets/prefabs/clothes/pants.patchwork/pants.patchwork.base.prefab|
+|assets/prefabs/clothes/pants.roadsign/pants.roadsign.item.prefab|
 |assets/prefabs/clothes/pants.roadsign/pants.roadsign.prefab|
 |assets/prefabs/clothes/pants.roadsign/roadsignpants_worldmodel.prefab|
+|assets/prefabs/clothes/pants.shorts/pants.shorts.item.prefab|
 |assets/prefabs/clothes/pants.shorts/pants.shorts.prefab|
 |assets/prefabs/clothes/pants.shorts/pantsshorts_worldmodel.prefab|
 |assets/prefabs/clothes/pants.woodarmor/roadsignarmor_pants_worldmodel.prefab|
+|assets/prefabs/clothes/pants.woodarmor/wood_armor_pants.item.prefab|
 |assets/prefabs/clothes/pants.woodarmor/woodarmor_pants.prefab|
+|assets/prefabs/clothes/pants/cargo/pants.cargo.item.prefab|
 |assets/prefabs/clothes/pants/pants.generic.prefab|
 |assets/prefabs/clothes/pants/player_urban_legs_worldmodel.prefab|
+|assets/prefabs/clothes/poncho.hide/poncho.hide.item.prefab|
 |assets/prefabs/clothes/poncho.hide/poncho.hide.prefab|
+|assets/prefabs/clothes/shirt.burlap/burlap_shirt.item.prefab|
 |assets/prefabs/clothes/shirt.burlap/shirt.burlap.prefab|
 |assets/prefabs/clothes/shirt.burlap/shirt.burlap.viewmodel.prefab|
 |assets/prefabs/clothes/shirt.burlap/shirtburlap_worldmodel.prefab|
+|assets/prefabs/clothes/shirt.collared/shirt.collared.item.prefab|
 |assets/prefabs/clothes/shirt.collared/shirt.collared.prefab|
 |assets/prefabs/clothes/shirt.collared/shirtcollared_worldmodel.prefab|
+|assets/prefabs/clothes/shirt.hide/hidevest.item.prefab|
 |assets/prefabs/clothes/shirt.hide/shirt.hide.prefab|
+|assets/prefabs/clothes/shirt.tanktop/shirt.tanktop.item.prefab|
 |assets/prefabs/clothes/shirt.tanktop/shirt.tanktop.prefab|
 |assets/prefabs/clothes/shirt.tanktop/shirttanktop_worldmodel.prefab|
+|assets/prefabs/clothes/shoes.boots/brown/shoes.boots.brown.item.prefab|
 |assets/prefabs/clothes/shoes.boots/shoes.boots.prefab|
 |assets/prefabs/clothes/shoes.boots/shoes.boots.world.prefab|
+|assets/prefabs/clothes/shoes.burlap/burlap_shoes.item.prefab|
 |assets/prefabs/clothes/shoes.burlap/shoes.burlap.prefab|
 |assets/prefabs/clothes/shoes.burlap/shoes.burlap.worldmodel.prefab|
+|assets/prefabs/clothes/shoes.hide/hideboots.item.prefab|
 |assets/prefabs/clothes/shoes.hide/shoes.hide.prefab|
 |assets/prefabs/clothes/shoes.hide/shoeshide_worldmodel.prefab|
 |assets/prefabs/clothes/skin/skin_clothsash.prefab|
@@ -3315,42 +3530,80 @@
 |assets/prefabs/clothes/skin/skin_torso.prefab|
 |assets/prefabs/clothes/skin/underwear/skin_legs.prefab|
 |assets/prefabs/clothes/skin/underwear/skin_torso.prefab|
+|assets/prefabs/clothes/skirt.hide/hideskirt.item.prefab|
 |assets/prefabs/clothes/skirt.hide/skirt.hide.prefab|
+|assets/prefabs/clothes/suit.hazmat/hazmat_suit.item.prefab|
 |assets/prefabs/clothes/suit.hazmat/hazmat_suit.prefab|
+|assets/prefabs/clothes/suit.hazmat/scientist/scientistsuit.item.prefab|
+|assets/prefabs/clothes/suit.hazmat/scientist/scientistsuitpeacekeeper.item.prefab|
 |assets/prefabs/clothes/suit.hazmat/scientist/scientistsuitpeacekeeper.prefab|
 |assets/prefabs/clothes/suit.hazmat/scientist/scientistsuitwearable.prefab|
 |assets/prefabs/clothes/suit.hazmat/suit.hazmat.viewmodel.prefab|
 |assets/prefabs/clothes/suit.hazmat/suit.scientist.viewmodel.prefab|
+|assets/prefabs/clothes/suit.heavyscientist/scientistsuitheavy.item.prefab|
+|assets/prefabs/clothes/suit.heavyscientist/suit_heavyscientist.wearable.prefab|
+|assets/prefabs/clothes/suit.makeshifthazmat/makeshifthazmat_suit.prefab|
+|assets/prefabs/clothes/tshirt.long/tshirt.long.blue.item.prefab|
 |assets/prefabs/clothes/tshirt.long/tshirt.long.prefab|
 |assets/prefabs/clothes/tshirt.long/tshirt.long.viewmodel.prefab|
 |assets/prefabs/clothes/tshirt.long/tshirtlongsleeve_basic_worldmodel.prefab|
+|assets/prefabs/clothes/tshirt/tshirt.green.item.prefab|
 |assets/prefabs/clothes/tshirt/tshirt.prefab|
 |assets/prefabs/clothes/tshirt/tshirt_basic_worldmodel.prefab|
 |assets/prefabs/clothes/vest.metal/metal plate torso_worldmodel.prefab|
+|assets/prefabs/clothes/vest.metal/metal_plate_torso.item.prefab|
 |assets/prefabs/clothes/vest.metal/vest.metal.prefab|
+|assets/prefabs/clothes/vest.roadsign/roadsign_armor.item.prefab|
 |assets/prefabs/clothes/vest.roadsign/roadsignjacket_worldmodel.prefab|
 |assets/prefabs/clothes/vest.roadsign/vest.roadsign.prefab|
+|assets/prefabs/componentitems/bleach/bleach.item.prefab|
 |assets/prefabs/componentitems/bleach/bleach.worldmodel.prefab|
+|assets/prefabs/componentitems/ducttape/ducttape.item.prefab|
 |assets/prefabs/componentitems/ducttape/ducttape.worldmodel.prefab|
+|assets/prefabs/componentitems/fuse/fuse.item.prefab|
+|assets/prefabs/componentitems/gears/gears.item.prefab|
 |assets/prefabs/componentitems/gears/gears.worldmodel.prefab|
+|assets/prefabs/componentitems/glue/glue.item.prefab|
+|assets/prefabs/componentitems/metalblade/metalblade.item.prefab|
 |assets/prefabs/componentitems/metalblade/metalblade.worldmodel.prefab|
+|assets/prefabs/componentitems/metalpipe/metalpipe.item.prefab|
 |assets/prefabs/componentitems/metalpipe/metalpipe.worldmodel.prefab|
+|assets/prefabs/componentitems/propanetank/propanetank.item.prefab|
 |assets/prefabs/componentitems/propanetank/propanetank.worldmodel.prefab|
+|assets/prefabs/componentitems/roadsigns/roadsigns.item.prefab|
 |assets/prefabs/componentitems/roadsigns/roadsigns.worldmodel.prefab|
+|assets/prefabs/componentitems/rope/rope.item.prefab|
 |assets/prefabs/componentitems/rope/rope.worldmodel.prefab|
+|assets/prefabs/componentitems/sewingkit/sewingkit.item.prefab|
 |assets/prefabs/componentitems/sewingkit/sewingkit.worldmodel.prefab|
+|assets/prefabs/componentitems/sheetmetal/sheetmetal.item.prefab|
 |assets/prefabs/componentitems/sheetmetal/sheetmetal.worldmodel.prefab|
+|assets/prefabs/componentitems/spring/spring.item.prefab|
 |assets/prefabs/componentitems/spring/spring.worldmodel.prefab|
+|assets/prefabs/componentitems/sticks/sticks.item.prefab|
+|assets/prefabs/componentitems/tarp/tarp.item.prefab|
 |assets/prefabs/componentitems/tarp/tarp.worldmodel.prefab|
+|assets/prefabs/componentitems/techparts/techparts.item.prefab|
 |assets/prefabs/componentitems/techparts/techparts.worldmodel.prefab|
+|assets/prefabs/componentitems/weaponparts/riflebody/riflebody.item.prefab|
 |assets/prefabs/componentitems/weaponparts/riflebody/riflebody.worldmodel.prefab|
+|assets/prefabs/componentitems/weaponparts/semibody/semibody.item.prefab|
 |assets/prefabs/componentitems/weaponparts/semibody/semibody.worldmodel.prefab|
+|assets/prefabs/componentitems/weaponparts/smgbody/smgbody.item.prefab|
 |assets/prefabs/componentitems/weaponparts/smgbody/smgbody.worldmodel.prefab|
+|assets/prefabs/debris/debris.wall.prefab|
+|assets/prefabs/deployable/advanced lootbox/advancedlootbox.prefab|
+|assets/prefabs/deployable/barricades/barricade.concrete.item.prefab|
 |assets/prefabs/deployable/barricades/barricade.concrete.prefab|
+|assets/prefabs/deployable/barricades/barricade.metal.item.prefab|
 |assets/prefabs/deployable/barricades/barricade.metal.prefab|
+|assets/prefabs/deployable/barricades/barricade.sandbags.item.prefab|
 |assets/prefabs/deployable/barricades/barricade.sandbags.prefab|
+|assets/prefabs/deployable/barricades/barricade.stone.item.prefab|
 |assets/prefabs/deployable/barricades/barricade.stone.prefab|
+|assets/prefabs/deployable/barricades/barricade.wood.item.prefab|
 |assets/prefabs/deployable/barricades/barricade.wood.prefab|
+|assets/prefabs/deployable/barricades/barricade.woodwire.item.prefab|
 |assets/prefabs/deployable/barricades/barricade.woodwire.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-concrete-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-metal-deploy.prefab|
@@ -3359,107 +3612,180 @@
 |assets/prefabs/deployable/barricades/effects/barricade-wood-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/damage.prefab|
 |assets/prefabs/deployable/bbq/bbq.deployed.prefab|
+|assets/prefabs/deployable/bbq/bbq.item.prefab|
+|assets/prefabs/deployable/bbq/bbq.prefab|
 |assets/prefabs/deployable/bbq/effects/barbeque-deploy.prefab|
+|assets/prefabs/deployable/bear trap/beartrap.item.prefab|
 |assets/prefabs/deployable/bear trap/beartrap.prefab|
 |assets/prefabs/deployable/bear trap/effects/bear-trap-deploy.prefab|
+|assets/prefabs/deployable/bed/bed.item.prefab|
 |assets/prefabs/deployable/bed/bed_deployed.prefab|
 |assets/prefabs/deployable/bed/effects/bed-deploy.prefab|
+|assets/prefabs/deployable/buildingsupplies loot/buildingsuppliesloot.prefab|
+|assets/prefabs/deployable/campfire/campfire.item.prefab|
 |assets/prefabs/deployable/campfire/campfire.prefab|
 |assets/prefabs/deployable/campfire/effects/campfire-deploy.prefab|
 |assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab|
+|assets/prefabs/deployable/ceiling light/ceilinglight.item.prefab|
 |assets/prefabs/deployable/ceiling light/ceilinglight.worldmodel.prefab|
 |assets/prefabs/deployable/ceiling light/effects/ceiling-light-deploy.prefab|
 |assets/prefabs/deployable/chair/chair.deployed.prefab|
+|assets/prefabs/deployable/chair/chair.item.prefab|
 |assets/prefabs/deployable/chair/chair.worldmodel.prefab|
 |assets/prefabs/deployable/chair/effects/chair-deploy.prefab|
+|assets/prefabs/deployable/chinooklockedcrate/chinooklockedcrate.prefab|
+|assets/prefabs/deployable/chinooklockedcrate/chinooklockedcratecodelocked.prefab|
 |assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
 |assets/prefabs/deployable/chinooklockedcrate/effects/landing.prefab|
+|assets/prefabs/deployable/chinooklockedcrate/hackingdevice.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_a.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_a_large.prefab|
+|assets/prefabs/deployable/door barricades/door_barricade_a_spawner.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_b.prefab|
+|assets/prefabs/deployable/door barricades/door_barricade_b_spawner.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_dbl_a.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_dbl_a_large.prefab|
+|assets/prefabs/deployable/door barricades/door_barricade_dbl_a_spawner.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_dbl_b.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_dbl_b_large.prefab|
+|assets/prefabs/deployable/door barricades/door_barricade_dbl_b_spawner.prefab|
+|assets/prefabs/deployable/drone/drone.prefab|
 |assets/prefabs/deployable/dropbox/dropbox.deployed.prefab|
+|assets/prefabs/deployable/dropbox/dropbox.item.prefab|
+|assets/prefabs/deployable/dropbox/dropbox.prefab|
 |assets/prefabs/deployable/dropbox/effects/dropbox-deploy.prefab|
 |assets/prefabs/deployable/dropbox/effects/submit_items.prefab|
+|assets/prefabs/deployable/dropbox/v2/dropboxv2.prefab|
 |assets/prefabs/deployable/fireplace/fireplace.deployed.prefab|
+|assets/prefabs/deployable/fireplace/fireplace.item.prefab|
 |assets/prefabs/deployable/floor spikes/effects/floor-spikes-deploy.prefab|
+|assets/prefabs/deployable/floor spikes/spikes.floor.item.prefab|
 |assets/prefabs/deployable/floor spikes/spikes.floor.prefab|
 |assets/prefabs/deployable/fridge/effects/fridge-deploy.prefab|
 |assets/prefabs/deployable/fridge/fridge.deployed.prefab|
+|assets/prefabs/deployable/fridge/fridge.item.prefab|
 |assets/prefabs/deployable/furnace.large/effects/furnace-large-deploy.prefab|
+|assets/prefabs/deployable/furnace.large/furnace.large.item.prefab|
 |assets/prefabs/deployable/furnace.large/furnace.large.prefab|
 |assets/prefabs/deployable/furnace/effects/furnace-deploy.prefab|
+|assets/prefabs/deployable/furnace/furnace.item.prefab|
 |assets/prefabs/deployable/furnace/furnace.prefab|
+|assets/prefabs/deployable/hot air balloon/hab.repair.item.prefab|
 |assets/prefabs/deployable/hot air balloon/hotairballoon.prefab|
 |assets/prefabs/deployable/hot air balloon/subents/hab_storage.prefab|
+|assets/prefabs/deployable/hot air balloon/temp_balloon.prefab|
+|assets/prefabs/deployable/jack o lantern/jackolantern.angry.item.prefab|
 |assets/prefabs/deployable/jack o lantern/jackolantern.angry.prefab|
 |assets/prefabs/deployable/jack o lantern/jackolantern.angry.worldmodel.prefab|
+|assets/prefabs/deployable/jack o lantern/jackolantern.happy.item.prefab|
 |assets/prefabs/deployable/jack o lantern/jackolantern.happy.prefab|
 |assets/prefabs/deployable/jack o lantern/jackolantern.happy.worldmodel.prefab|
+|assets/prefabs/deployable/landmine/landmine.item.prefab|
 |assets/prefabs/deployable/landmine/landmine.prefab|
 |assets/prefabs/deployable/lantern/effects/lantern-deploy.prefab|
 |assets/prefabs/deployable/lantern/lantern.deployed.prefab|
+|assets/prefabs/deployable/lantern/lantern.item.prefab|
 |assets/prefabs/deployable/lantern/lantern.viewmodel.prefab|
+|assets/prefabs/deployable/lantern/lantern.weapon.prefab|
 |assets/prefabs/deployable/lantern/lantern.worldmodel.prefab|
 |assets/prefabs/deployable/lantern/model/vm_lantern/attack.prefab|
 |assets/prefabs/deployable/lantern/model/vm_lantern/attack_hit.prefab|
 |assets/prefabs/deployable/lantern/model/vm_lantern/deploy.prefab|
 |assets/prefabs/deployable/lantern/model/vm_lantern/holster.prefab|
+|assets/prefabs/deployable/large wood storage/box.wooden.large.item.prefab|
 |assets/prefabs/deployable/large wood storage/box.wooden.large.prefab|
 |assets/prefabs/deployable/large wood storage/effects/large-wood-box-deploy.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/liquid-barrel-deploy.prefab|
+|assets/prefabs/deployable/liquidbarrel/effects/splashloop.prefab|
+|assets/prefabs/deployable/liquidbarrel/effects/taploop.prefab|
+|assets/prefabs/deployable/liquidbarrel/waterbarrel.item.prefab|
 |assets/prefabs/deployable/liquidbarrel/waterbarrel.prefab|
 |assets/prefabs/deployable/locker/effects/locker-deploy.prefab|
 |assets/prefabs/deployable/locker/locker.deployed.prefab|
+|assets/prefabs/deployable/locker/locker.item.prefab|
 |assets/prefabs/deployable/locker/sound/equip_zipper.prefab|
+|assets/prefabs/deployable/loot barrels/radbarrel_test.prefab|
 |assets/prefabs/deployable/mailbox/effects/mailbox-deploy.prefab|
 |assets/prefabs/deployable/mailbox/mailbox.deployed.prefab|
+|assets/prefabs/deployable/mailbox/mailbox.item.prefab|
 |assets/prefabs/deployable/mailbox/maildrop.prefab|
 |assets/prefabs/deployable/oil jack/crudeoutput.prefab|
 |assets/prefabs/deployable/oil jack/engineswitch.prefab|
 |assets/prefabs/deployable/oil jack/fuelstorage.prefab|
+|assets/prefabs/deployable/oil jack/mining.pumpjack.item.prefab|
 |assets/prefabs/deployable/oil jack/mining.pumpjack.prefab|
 |assets/prefabs/deployable/oil refinery/effects/oil-refinery-deploy.prefab|
+|assets/prefabs/deployable/oil refinery/refinery_large_deployed.prefab|
 |assets/prefabs/deployable/oil refinery/refinery_small_deployed.prefab|
+|assets/prefabs/deployable/oil refinery/small_oil_refinery.item.prefab|
 |assets/prefabs/deployable/planters/effects/planter-deploy.prefab|
 |assets/prefabs/deployable/planters/planter.large.deployed.prefab|
+|assets/prefabs/deployable/planters/planter.large.item.prefab|
 |assets/prefabs/deployable/planters/planter.small.deployed.prefab|
+|assets/prefabs/deployable/planters/planter.small.item.prefab|
+|assets/prefabs/deployable/planters/small_planter.prefab|
+|assets/prefabs/deployable/playerioents/alarms/audioalarm.item.prefab|
 |assets/prefabs/deployable/playerioents/alarms/audioalarm.prefab|
 |assets/prefabs/deployable/playerioents/batteries/large/large.rechargable.battery.deployed.prefab|
+|assets/prefabs/deployable/playerioents/batteries/large/large.rechargable.battery.item.prefab|
+|assets/prefabs/deployable/playerioents/batteries/small.rechargable.battery.item.prefab|
 |assets/prefabs/deployable/playerioents/batteries/smallrechargablebattery.deployed.prefab|
+|assets/prefabs/deployable/playerioents/counter/counter.item.prefab|
 |assets/prefabs/deployable/playerioents/counter/counter.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_down.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_up.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/hbhfsensor.deployed.prefab|
+|assets/prefabs/deployable/playerioents/detectors/hbhfsensor/hbhfsensor.item.prefab|
+|assets/prefabs/deployable/playerioents/detectors/laserdetector/laserdetector.item.prefab|
 |assets/prefabs/deployable/playerioents/detectors/laserdetector/laserdetector.prefab|
 |assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.deployed.prefab|
+|assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.item.prefab|
 |assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.deployed.prefab|
+|assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/andswitch/andswitch.entity.prefab|
+|assets/prefabs/deployable/playerioents/gates/andswitch/andswitch.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/blocker/electrical.blocker.deployed.prefab|
+|assets/prefabs/deployable/playerioents/gates/blocker/electrical.blocker.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/branch/electrical.branch.deployed.prefab|
+|assets/prefabs/deployable/playerioents/gates/branch/electrical.branch.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/combiner/electrical.combiner.deployed.prefab|
+|assets/prefabs/deployable/playerioents/gates/combiner/electrical.combiner.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/dflipflop/electrical.memorycell.deployed.prefab|
+|assets/prefabs/deployable/playerioents/gates/dflipflop/electrical.memorycell.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/orswitch/orswitch.entity.prefab|
+|assets/prefabs/deployable/playerioents/gates/orswitch/orswitch.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/randswitch/electrical.random.switch.deployed.prefab|
+|assets/prefabs/deployable/playerioents/gates/randswitch/electrical.random.switch.item.prefab|
+|assets/prefabs/deployable/playerioents/gates/rfbroadcaster/rfbroadcaster.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/rfbroadcaster/rfbroadcaster.prefab|
+|assets/prefabs/deployable/playerioents/gates/rfreceiver/rfreceiver.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/rfreceiver/rfreceiver.prefab|
 |assets/prefabs/deployable/playerioents/gates/xorswitch/xorswitch.entity.prefab|
+|assets/prefabs/deployable/playerioents/gates/xorswitch/xorswitch.item.prefab|
+|assets/prefabs/deployable/playerioents/generators/generator.small.item.prefab|
 |assets/prefabs/deployable/playerioents/generators/generator.small.prefab|
 |assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.deployed.prefab|
+|assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.item.prefab|
 |assets/prefabs/deployable/playerioents/lights/flasherlight/electric.flasherlight.deployed.prefab|
+|assets/prefabs/deployable/playerioents/lights/flasherlight/electric.flasherlight.item.prefab|
+|assets/prefabs/deployable/playerioents/lights/simpelight.item.prefab|
 |assets/prefabs/deployable/playerioents/lights/simplelight.prefab|
 |assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.deployed.prefab|
+|assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.item.prefab|
+|assets/prefabs/deployable/playerioents/simpleswitch/switch.item.prefab|
 |assets/prefabs/deployable/playerioents/simpleswitch/switch.prefab|
+|assets/prefabs/deployable/playerioents/splitter/splitter.item.prefab|
 |assets/prefabs/deployable/playerioents/splitter/splitter.prefab|
+|assets/prefabs/deployable/playerioents/timers/timer.item.prefab|
 |assets/prefabs/deployable/playerioents/timers/timer.prefab|
+|assets/prefabs/deployable/playerioents/tunnel/cabletunnel.item.prefab|
 |assets/prefabs/deployable/playerioents/tunnel/cabletunnel.prefab|
+|assets/prefabs/deployable/primitive lootbox/primitivelootbox.prefab|
 |assets/prefabs/deployable/quarry/effects/mining-quarry-deploy.prefab|
 |assets/prefabs/deployable/quarry/engineswitch.prefab|
 |assets/prefabs/deployable/quarry/fuelstorage.prefab|
 |assets/prefabs/deployable/quarry/hopperoutput.prefab|
+|assets/prefabs/deployable/quarry/mining.quarry.item.prefab|
 |assets/prefabs/deployable/quarry/mining_quarry.prefab|
 |assets/prefabs/deployable/reactive target/effects/bullseye.prefab|
 |assets/prefabs/deployable/reactive target/effects/reactive-target-deploy.prefab|
@@ -3467,25 +3793,35 @@
 |assets/prefabs/deployable/reactive target/effects/snd_knockdown.prefab|
 |assets/prefabs/deployable/reactive target/effects/snd_reset.prefab|
 |assets/prefabs/deployable/reactive target/effects/tire_smokepuff.prefab|
+|assets/prefabs/deployable/reactive target/reactivetarget.item.prefab|
+|assets/prefabs/deployable/reactive target/reactivetarget.prefab|
 |assets/prefabs/deployable/reactive target/reactivetarget_deployed.prefab|
 |assets/prefabs/deployable/recycler/effects/start.prefab|
 |assets/prefabs/deployable/recycler/effects/stop.prefab|
 |assets/prefabs/deployable/repair bench/effects/repair-bench-deploy.prefab|
 |assets/prefabs/deployable/repair bench/effects/skinchange_spraypaint.prefab|
+|assets/prefabs/deployable/repair bench/repair_bench.item.prefab|
 |assets/prefabs/deployable/repair bench/repairbench_deployed.prefab|
 |assets/prefabs/deployable/research table/effects/research-fail.prefab|
 |assets/prefabs/deployable/research table/effects/research-start.prefab|
 |assets/prefabs/deployable/research table/effects/research-success.prefab|
 |assets/prefabs/deployable/research table/effects/research-table-deploy.prefab|
+|assets/prefabs/deployable/research table/research_table.item.prefab|
 |assets/prefabs/deployable/research table/researchtable_deployed.prefab|
 |assets/prefabs/deployable/rug/effects/rug-deploy.prefab|
 |assets/prefabs/deployable/rug/rug.bear.deployed.prefab|
+|assets/prefabs/deployable/rug/rug.bear.item.prefab|
 |assets/prefabs/deployable/rug/rug.bear.worldmodel.prefab|
 |assets/prefabs/deployable/rug/rug.deployed.prefab|
+|assets/prefabs/deployable/rug/rug.item.prefab|
 |assets/prefabs/deployable/rug/rug.worldmodel.prefab|
+|assets/prefabs/deployable/scap pile/scrappile.prefab|
 |assets/prefabs/deployable/search light/effects/search-light-deploy.prefab|
 |assets/prefabs/deployable/search light/searchlight.deployed.prefab|
+|assets/prefabs/deployable/search light/searchlight.item.prefab|
 |assets/prefabs/deployable/shelves/effects/shelves-deploy.prefab|
+|assets/prefabs/deployable/shelves/models/shelves.prefab|
+|assets/prefabs/deployable/shelves/shelves.item.prefab|
 |assets/prefabs/deployable/shelves/shelves.prefab|
 |assets/prefabs/deployable/signs/effects/large-banner-deploy.prefab|
 |assets/prefabs/deployable/signs/effects/metal-sign-deploy.prefab|
@@ -3493,49 +3829,82 @@
 |assets/prefabs/deployable/signs/effects/sign-post-deploy.prefab|
 |assets/prefabs/deployable/signs/effects/town-sign-deploy.prefab|
 |assets/prefabs/deployable/signs/effects/wood-sign-deploy.prefab|
+|assets/prefabs/deployable/signs/sign.hanging.banner.large.item.prefab|
 |assets/prefabs/deployable/signs/sign.hanging.banner.large.prefab|
+|assets/prefabs/deployable/signs/sign.hanging.item.prefab|
+|assets/prefabs/deployable/signs/sign.hanging.ornate.item.prefab|
 |assets/prefabs/deployable/signs/sign.hanging.ornate.prefab|
 |assets/prefabs/deployable/signs/sign.hanging.prefab|
 |assets/prefabs/deployable/signs/sign.huge.wood.prefab|
 |assets/prefabs/deployable/signs/sign.large.wood.prefab|
 |assets/prefabs/deployable/signs/sign.medium.wood.prefab|
+|assets/prefabs/deployable/signs/sign.pictureframe.landscape.item.prefab|
 |assets/prefabs/deployable/signs/sign.pictureframe.landscape.prefab|
+|assets/prefabs/deployable/signs/sign.pictureframe.portrait.item.prefab|
 |assets/prefabs/deployable/signs/sign.pictureframe.portrait.prefab|
+|assets/prefabs/deployable/signs/sign.pictureframe.tall.item.prefab|
 |assets/prefabs/deployable/signs/sign.pictureframe.tall.prefab|
+|assets/prefabs/deployable/signs/sign.pictureframe.xl.item.prefab|
 |assets/prefabs/deployable/signs/sign.pictureframe.xl.prefab|
+|assets/prefabs/deployable/signs/sign.pictureframe.xxl.item.prefab|
 |assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab|
+|assets/prefabs/deployable/signs/sign.pole.banner.large.item.prefab|
 |assets/prefabs/deployable/signs/sign.pole.banner.large.prefab|
+|assets/prefabs/deployable/signs/sign.post.double.item.prefab|
 |assets/prefabs/deployable/signs/sign.post.double.prefab|
+|assets/prefabs/deployable/signs/sign.post.single.item.prefab|
 |assets/prefabs/deployable/signs/sign.post.single.prefab|
+|assets/prefabs/deployable/signs/sign.post.town.item.prefab|
 |assets/prefabs/deployable/signs/sign.post.town.prefab|
+|assets/prefabs/deployable/signs/sign.post.town.roof.item.prefab|
 |assets/prefabs/deployable/signs/sign.post.town.roof.prefab|
 |assets/prefabs/deployable/signs/sign.small.wood.prefab|
+|assets/prefabs/deployable/signs/sign.wooden.huge.item.prefab|
+|assets/prefabs/deployable/signs/sign.wooden.large.item.prefab|
+|assets/prefabs/deployable/signs/sign.wooden.medium.item.prefab|
+|assets/prefabs/deployable/signs/sign.wooden.small.item.prefab|
 |assets/prefabs/deployable/single shot trap/effects/shotgun-trap-deploy.prefab|
 |assets/prefabs/deployable/single shot trap/fired.prefab|
 |assets/prefabs/deployable/single shot trap/guntrap.deployed.prefab|
+|assets/prefabs/deployable/single shot trap/shotguntrap.item.prefab|
 |assets/prefabs/deployable/single shot trap/trapbullet.prefab|
 |assets/prefabs/deployable/sleeping bag/effects/sleeping-bag-deploy.prefab|
+|assets/prefabs/deployable/sleeping bag/sleepingbag.item.prefab|
 |assets/prefabs/deployable/sleeping bag/sleepingbag_leather_deployed.prefab|
+|assets/prefabs/deployable/sleeping bag/sleepingbag_leather_occupied.prefab|
 |assets/prefabs/deployable/small stash/effects/small-stash-deploy.prefab|
+|assets/prefabs/deployable/small stash/small_stash.item.prefab|
 |assets/prefabs/deployable/small stash/small_stash_deployed.prefab|
 |assets/prefabs/deployable/spinner_wheel/effects/spinner-wheel-deploy.prefab|
 |assets/prefabs/deployable/spinner_wheel/spinner.wheel.deployed.prefab|
+|assets/prefabs/deployable/spinner_wheel/spinner.wheel.item.prefab|
 |assets/prefabs/deployable/survivalfishtrap/effects/fish-trap-deploy.prefab|
 |assets/prefabs/deployable/survivalfishtrap/effects/fish_caught.prefab|
 |assets/prefabs/deployable/survivalfishtrap/survivalfishtrap.deployed.prefab|
+|assets/prefabs/deployable/survivalfishtrap/survivalfishtrap.item.prefab|
 |assets/prefabs/deployable/table/effects/table-deploy.prefab|
 |assets/prefabs/deployable/table/table.deployed.prefab|
+|assets/prefabs/deployable/table/table.item.prefab|
 |assets/prefabs/deployable/tier 1 workbench/effects/experiment-start.prefab|
 |assets/prefabs/deployable/tier 1 workbench/effects/workbench-tier-1-deploy.prefab|
+|assets/prefabs/deployable/tier 1 workbench/tier1workbench.prefab|
 |assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.prefab|
+|assets/prefabs/deployable/tier 1 workbench/workbench1.item.prefab|
 |assets/prefabs/deployable/tier 2 workbench/effects/workbench-tier-2-deploy.prefab|
+|assets/prefabs/deployable/tier 2 workbench/tier2workbench.prefab|
 |assets/prefabs/deployable/tier 2 workbench/workbench2.deployed.prefab|
+|assets/prefabs/deployable/tier 2 workbench/workbench2.item.prefab|
 |assets/prefabs/deployable/tier 3 workbench/effects/workbench-tier-3-deploy.prefab|
+|assets/prefabs/deployable/tier 3 workbench/tier3workbench.prefab|
 |assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.prefab|
+|assets/prefabs/deployable/tier 3 workbench/workbench3.item.prefab|
 |assets/prefabs/deployable/tool cupboard/cupboard.tool.deployed.prefab|
+|assets/prefabs/deployable/tool cupboard/cupboard.tool.item.prefab|
 |assets/prefabs/deployable/tool cupboard/effects/tool-cupboard-deploy.prefab|
 |assets/prefabs/deployable/tuna can wall lamp/effects/tuna-can-lamp-deploy.prefab|
+|assets/prefabs/deployable/tuna can wall lamp/tunacan_walllight.prefab|
 |assets/prefabs/deployable/tuna can wall lamp/tunalight.deployed.prefab|
+|assets/prefabs/deployable/tuna can wall lamp/tunalight.item.prefab|
 |assets/prefabs/deployable/vendingmachine/effects/vending-machine-deploy.prefab|
 |assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab|
 |assets/prefabs/deployable/vendingmachine/npcvendingmachine.prefab|
@@ -3548,19 +3917,58 @@
 |assets/prefabs/deployable/vendingmachine/npcvendingmachines/shopkeeper_vm_invis.prefab|
 |assets/prefabs/deployable/vendingmachine/vending_mapmarker.prefab|
 |assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.prefab|
+|assets/prefabs/deployable/vendingmachine/vendingmachine.item.prefab|
+|assets/prefabs/deployable/vendingmachine/vendingmachine.prefab|
+|assets/prefabs/deployable/water barrel/water_barrel.prefab|
 |assets/prefabs/deployable/water catcher/effects/water-catcher-deploy.prefab|
 |assets/prefabs/deployable/water catcher/effects/water-catcher-large-deploy.prefab|
+|assets/prefabs/deployable/water catcher/w_tank_big.prefab|
+|assets/prefabs/deployable/water catcher/w_tank_small.prefab|
+|assets/prefabs/deployable/water catcher/water_catcher_large.item.prefab|
 |assets/prefabs/deployable/water catcher/water_catcher_large.prefab|
+|assets/prefabs/deployable/water catcher/water_catcher_small.item.prefab|
 |assets/prefabs/deployable/water catcher/water_catcher_small.prefab|
+|assets/prefabs/deployable/water well/water_well_deployable.prefab|
 |assets/prefabs/deployable/water well/waterwellstatic.prefab|
+|assets/prefabs/deployable/water wheel/waterwheel.prefab|
 |assets/prefabs/deployable/waterpurifier/effects/water-purifier-deploy.prefab|
+|assets/prefabs/deployable/waterpurifier/water_desalinator.prefab|
 |assets/prefabs/deployable/waterpurifier/waterpurifier.deployed.prefab|
+|assets/prefabs/deployable/waterpurifier/waterpurifier.item.prefab|
 |assets/prefabs/deployable/waterpurifier/waterstorage.prefab|
+|assets/prefabs/deployable/windmill/generator.wind.scrap.item.prefab|
 |assets/prefabs/deployable/windmill/generator.wind.scrap.prefab|
+|assets/prefabs/deployable/windmill/windmill.prefab|
 |assets/prefabs/deployable/windmill/windmillsmall/electric.windmill.small.prefab|
+|assets/prefabs/deployable/wooden loot crates/wooden_crate_1.prefab|
+|assets/prefabs/deployable/wooden loot crates/wooden_crate_2.prefab|
+|assets/prefabs/deployable/woodenbox/box_wooden.item.prefab|
 |assets/prefabs/deployable/woodenbox/effects/wooden-box-deploy.prefab|
 |assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab|
+|assets/prefabs/effects/auroras/auroras_skychild.prefab|
+|assets/prefabs/effects/foliage/pfx_leaves.prefab|
+|assets/prefabs/effects/foliage/pfx_leaves_dead.prefab|
+|assets/prefabs/effects/foliage/pfx_leaves_reddish.prefab|
+|assets/prefabs/effects/foliage/pfx_leaves_yellowish.prefab|
+|assets/prefabs/effects/local camera particles/camfx_dust.prefab|
+|assets/prefabs/effects/local camera particles/camfx_rain.prefab|
+|assets/prefabs/effects/local camera particles/camfx_sand.prefab|
+|assets/prefabs/effects/local camera particles/camfx_snow.prefab|
+|assets/prefabs/effects/weather/pfx_duststorm.prefab|
+|assets/prefabs/effects/weather/pfx_sandstorm.prefab|
+|assets/prefabs/effects/weather/sandstorm.prefab|
+|assets/prefabs/engine/game setup.prefab|
+|assets/prefabs/engine/main camera.prefab|
+|assets/prefabs/engine/ocean.prefab|
+|assets/prefabs/engine/sky dome.prefab|
+|assets/prefabs/engine/testlevel terrain.prefab|
+|assets/prefabs/engine/water system.prefab|
+|assets/prefabs/food/apple/apple.item.prefab|
+|assets/prefabs/food/apple/apple_spoiled.item.prefab|
+|assets/prefabs/food/berries/black raspberries.item.prefab|
+|assets/prefabs/food/berries/blueberries.item.prefab|
 |assets/prefabs/food/bota bag/bota_bag.entity.prefab|
+|assets/prefabs/food/bota bag/bota_bag.item.prefab|
 |assets/prefabs/food/bota bag/bota_bag.viewmodel.prefab|
 |assets/prefabs/food/bota bag/bota_bag.worldmodel.prefab|
 |assets/prefabs/food/bota bag/effects/bota-bag-cork-squeak.prefab|
@@ -3570,25 +3978,75 @@
 |assets/prefabs/food/bota bag/effects/bota-bag-remove-cap.prefab|
 |assets/prefabs/food/bota bag/effects/bota-bag-slosh-fast.prefab|
 |assets/prefabs/food/bota bag/effects/bota-bag-slosh.prefab|
+|assets/prefabs/food/cactusflesh/cactusflesh.item.prefab|
+|assets/prefabs/food/can of beans/can_beans.item.prefab|
+|assets/prefabs/food/can of tuna/can_tuna.item.prefab|
+|assets/prefabs/food/chocholate/chocholate.item.prefab|
+|assets/prefabs/food/fish/fish_cooked.item.prefab|
+|assets/prefabs/food/fish/fish_raw.item.prefab|
+|assets/prefabs/food/fish/minnows.item.prefab|
+|assets/prefabs/food/fish/smalltrout.item.prefab|
+|assets/prefabs/food/granola bar/granolabar.item.prefab|
 |assets/prefabs/food/meat/bearmeat.worldmodel.prefab|
+|assets/prefabs/food/meat/chicken_burned.item.prefab|
 |assets/prefabs/food/meat/chicken_burned.worldmodel.prefab|
+|assets/prefabs/food/meat/chicken_cooked.item.prefab|
 |assets/prefabs/food/meat/chicken_cooked.worldmodel.prefab|
+|assets/prefabs/food/meat/chicken_raw.item.prefab|
 |assets/prefabs/food/meat/chicken_raw.worldmodel.prefab|
+|assets/prefabs/food/meat/chicken_spoiled.item.prefab|
 |assets/prefabs/food/meat/chicken_spoiled.worldmodel.prefab|
+|assets/prefabs/food/meat/deer/meat.deer.burned.item.prefab|
 |assets/prefabs/food/meat/deer/meat.deer.burned.worldmodel.prefab|
+|assets/prefabs/food/meat/deer/meat.deer.cooked.item.prefab|
 |assets/prefabs/food/meat/deer/meat.deer.cooked.worldmodel.prefab|
+|assets/prefabs/food/meat/deer/meat.deer.raw.item.prefab|
 |assets/prefabs/food/meat/deer/meet.deer.raw.worldmodel.prefab|
+|assets/prefabs/food/meat/horse/meat.horse.burned.item.prefab|
+|assets/prefabs/food/meat/horse/meat.horse.cooked.item.prefab|
+|assets/prefabs/food/meat/horse/meat.horse.raw.item.prefab|
 |assets/prefabs/food/meat/human meat/humanmeat.burned.worldmodel.prefab|
 |assets/prefabs/food/meat/human meat/humanmeat.cooked.worldmodel.prefab|
 |assets/prefabs/food/meat/human meat/humanmeat.raw.worldmodel.prefab|
 |assets/prefabs/food/meat/human meat/humanmeat.spoiled.worldmodel.prefab|
+|assets/prefabs/food/meat/humanmeat_burned.item.prefab|
+|assets/prefabs/food/meat/humanmeat_cooked.item.prefab|
+|assets/prefabs/food/meat/humanmeat_raw.item.prefab|
+|assets/prefabs/food/meat/humanmeat_spoiled.item.prefab|
+|assets/prefabs/food/meat/meat.bear.burned.item.prefab|
+|assets/prefabs/food/meat/meat.bear.cooked.item.prefab|
+|assets/prefabs/food/meat/meat.bear.raw.item.prefab|
+|assets/prefabs/food/meat/meat.wolf.burned.item.prefab|
 |assets/prefabs/food/meat/meat.wolf.burned.worldmodel.prefab|
+|assets/prefabs/food/meat/meat.wolf.cooked.item.prefab|
 |assets/prefabs/food/meat/meat.wolf.cooked.worldmodel.prefab|
+|assets/prefabs/food/meat/meat.wolf.raw.item.prefab|
 |assets/prefabs/food/meat/meat.wolf.raw.worldmodel.prefab|
+|assets/prefabs/food/meat/meat.wolf.spoiled.item.prefab|
 |assets/prefabs/food/meat/meat.wolf.spoiled.worldmodel.prefab|
+|assets/prefabs/food/meat/meat_boar_leg_cooked.prefab|
+|assets/prefabs/food/meat/meat_boar_leg_raw.prefab|
+|assets/prefabs/food/meat/meat_chicken_breast_raw.prefab|
+|assets/prefabs/food/meat/meat_human_foot_cooked.prefab|
+|assets/prefabs/food/meat/meat_human_foot_raw.prefab|
+|assets/prefabs/food/meat/meat_human_leg_cooked.prefab|
+|assets/prefabs/food/meat/meat_human_leg_raw.prefab|
+|assets/prefabs/food/meat/meat_human_ribcage_cooked.prefab|
+|assets/prefabs/food/meat/meat_human_ribcage_raw.prefab|
+|assets/prefabs/food/meat/meat_rabbit_cooked.prefab|
+|assets/prefabs/food/meat/meat_rabbit_raw.prefab|
+|assets/prefabs/food/meat/models/meat_chicken_burnt.prefab|
+|assets/prefabs/food/meat/models/meat_chicken_cooked.prefab|
+|assets/prefabs/food/meat/models/meat_chicken_raw.prefab|
+|assets/prefabs/food/meat/models/meat_chicken_spoiled.prefab|
+|assets/prefabs/food/meat/pork/meat.pork.burned.item.prefab|
 |assets/prefabs/food/meat/pork/meat.pork.burned.worldmodel.prefab|
+|assets/prefabs/food/meat/pork/meat.pork.cooked.item.prefab|
 |assets/prefabs/food/meat/pork/meat.pork.cooked.worldmodel.prefab|
+|assets/prefabs/food/meat/pork/meat.pork.raw.item.prefab|
 |assets/prefabs/food/meat/pork/meat.pork.raw.worldmodel.prefab|
+|assets/prefabs/food/mushroom/mushroom.item.prefab|
+|assets/prefabs/food/pickles/picklejar.item.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-deploy.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-fill-container.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-fill-world.prefab|
@@ -3596,6 +4054,7 @@
 |assets/prefabs/food/small water bottle/effects/water-bottle-slosh-fast.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-slosh.prefab|
 |assets/prefabs/food/small water bottle/smallwaterbottle.entity.prefab|
+|assets/prefabs/food/small water bottle/smallwaterbottle.item.prefab|
 |assets/prefabs/food/small water bottle/water_bottle.viewmodel.prefab|
 |assets/prefabs/food/small water bottle/water_bottle.worldmodel.prefab|
 |assets/prefabs/food/water jug/effects/water-jug-deploy.prefab|
@@ -3605,16 +4064,21 @@
 |assets/prefabs/food/water jug/effects/water-jug-throw-water.prefab|
 |assets/prefabs/food/water jug/effects/waterjug_splash.prefab|
 |assets/prefabs/food/water jug/waterjug.entity.prefab|
+|assets/prefabs/food/water jug/waterjug.item.prefab|
 |assets/prefabs/food/water jug/waterjug.viewmodel.prefab|
 |assets/prefabs/food/water jug/waterjug.worldmodel.prefab|
 |assets/prefabs/instruments/guitar/effects/guitardeploy.prefab|
 |assets/prefabs/instruments/guitar/effects/guitarpluck.prefab|
 |assets/prefabs/instruments/guitar/effects/guitarstrum.prefab|
+|assets/prefabs/instruments/guitar/guitar.item.prefab|
 |assets/prefabs/instruments/guitar/guitar.viewmodel.prefab|
 |assets/prefabs/instruments/guitar/guitar.weapon.prefab|
 |assets/prefabs/instruments/guitar/guitar.worldmodel.prefab|
 |assets/prefabs/io/electric/generators/generator.static.prefab|
 |assets/prefabs/io/electric/lights/simplelight.prefab|
+|assets/prefabs/io/electric/lights/sirenlightorange.prefab|
+|assets/prefabs/io/electric/other/alarmsound.prefab|
+|assets/prefabs/io/electric/other/rfbroadcaster.static.prefab|
 |assets/prefabs/io/electric/switches/andswitch.prefab|
 |assets/prefabs/io/electric/switches/cardreader.prefab|
 |assets/prefabs/io/electric/switches/doormanipulator.prefab|
@@ -3625,6 +4089,8 @@
 |assets/prefabs/io/electric/switches/splitter.prefab|
 |assets/prefabs/io/electric/switches/timerswitch.prefab|
 |assets/prefabs/io/kinetic/wheelswitch.prefab|
+|assets/prefabs/locks/keylock/door_key.item.prefab|
+|assets/prefabs/locks/keylock/lock.key.item.prefab|
 |assets/prefabs/locks/keylock/lock.key.prefab|
 |assets/prefabs/locks/keypad/effects/lock-code-deploy.prefab|
 |assets/prefabs/locks/keypad/effects/lock.code.denied.prefab|
@@ -3632,9 +4098,15 @@
 |assets/prefabs/locks/keypad/effects/lock.code.shock.prefab|
 |assets/prefabs/locks/keypad/effects/lock.code.unlock.prefab|
 |assets/prefabs/locks/keypad/effects/lock.code.updated.prefab|
+|assets/prefabs/locks/keypad/lock.code.item.prefab|
 |assets/prefabs/locks/keypad/lock.code.prefab|
 |assets/prefabs/locks/keypad/lock.code.worldmodel.prefab|
+|assets/prefabs/locks/keypad/model/keypad.prefab|
+|assets/prefabs/locks/keypad/ui/ui.dialog.lock.code.prefab|
+|assets/prefabs/misc/backpack/backpackg.prefab|
+|assets/prefabs/misc/balloons/balloons.prefab|
 |assets/prefabs/misc/balloons/balloons.worldmodel.prefab|
+|assets/prefabs/misc/blueprintbase/blueprintbase.prefab|
 |assets/prefabs/misc/blueprintbase/effects/blueprint_read.prefab|
 |assets/prefabs/misc/burlap sack/burlap sack.prefab|
 |assets/prefabs/misc/burlap sack/effects/phys-impact-hard.prefab|
@@ -3643,10 +4115,17 @@
 |assets/prefabs/misc/burlap sack/generic_world.prefab|
 |assets/prefabs/misc/casino/bigwheel/big_wheel.prefab|
 |assets/prefabs/misc/casino/bigwheel/bigwheelbettingterminal.prefab|
+|assets/prefabs/misc/casino/slotmachine/slotmachine.prefab|
 |assets/prefabs/misc/chinesenewyear/chinese_door_decoration/chinese_door_decoration.prefab|
 |assets/prefabs/misc/chinesenewyear/chinese_door_frame_decoration/chinese_door_frame_decoration.prefab|
+|assets/prefabs/misc/chinesenewyear/chinese_firecrackers/chinese_firecrackers.prefab|
+|assets/prefabs/misc/chinesenewyear/chinese_firecrackers/chinese_firecrackers_explosion.prefab|
 |assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern.deployed.prefab|
+|assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern.item.prefab|
+|assets/prefabs/misc/chinesenewyear/chineselantern/w_chineselantern.prefab|
+|assets/prefabs/misc/chinesenewyear/dragondoorknocker/door_knocker.prefab|
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/dragondoorknocker.deployed.prefab|
+|assets/prefabs/misc/chinesenewyear/dragondoorknocker/dragondoorknocker.item.prefab|
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/effects/door_knock_fx.prefab|
 |assets/prefabs/misc/chinesenewyear/dragonmask/hat.dragonmask.item.prefab|
 |assets/prefabs/misc/chinesenewyear/dragonmask/hat.dragonmask.prefab|
@@ -3654,18 +4133,34 @@
 |assets/prefabs/misc/divesite/divesite_a.prefab|
 |assets/prefabs/misc/divesite/divesite_b.prefab|
 |assets/prefabs/misc/divesite/divesite_c.prefab|
+|assets/prefabs/misc/doorcloser/doorcloser.item.prefab|
 |assets/prefabs/misc/doorcloser/doorcloser.prefab|
+|assets/prefabs/misc/halloween/candles.prefab|
+|assets/prefabs/misc/halloween/candles/largecandles.item.prefab|
 |assets/prefabs/misc/halloween/candles/largecandleset.prefab|
+|assets/prefabs/misc/halloween/candles/smallcandles.item.prefab|
 |assets/prefabs/misc/halloween/candles/smallcandleset.prefab|
+|assets/prefabs/misc/halloween/coffin/coffin.prefab|
+|assets/prefabs/misc/halloween/coffin/coffinstorage.item.prefab|
 |assets/prefabs/misc/halloween/coffin/coffinstorage.prefab|
+|assets/prefabs/misc/halloween/cursed_cauldron/cauldron.item.prefab|
 |assets/prefabs/misc/halloween/cursed_cauldron/cursed_cauldron.prefab|
 |assets/prefabs/misc/halloween/cursed_cauldron/cursedcauldron.deployed.prefab|
+|assets/prefabs/misc/halloween/cursed_cauldron/particle system.prefab|
 |assets/prefabs/misc/halloween/deployablegravestone/gravestone.stone.deployed.prefab|
+|assets/prefabs/misc/halloween/deployablegravestone/gravestone.stone.item.prefab|
 |assets/prefabs/misc/halloween/deployablegravestone/gravestone.wood.deployed.prefab|
+|assets/prefabs/misc/halloween/deployablegravestone/gravestone.wood.item.prefab|
+|assets/prefabs/misc/halloween/graveyard_fence/graveyardfence.item.prefab|
 |assets/prefabs/misc/halloween/graveyard_fence/graveyardfence.prefab|
+|assets/prefabs/misc/halloween/lootbag/halloween.lootbag.prefab|
 |assets/prefabs/misc/halloween/scarecrow/scarecrow.deployed.prefab|
+|assets/prefabs/misc/halloween/scarecrow/scarecrow.item.prefab|
+|assets/prefabs/misc/halloween/skull_fire_pit/skull_fire_pit.item.prefab|
 |assets/prefabs/misc/halloween/skull_fire_pit/skull_fire_pit.prefab|
+|assets/prefabs/misc/halloween/spiderweb/spiderweb.item.prefab|
 |assets/prefabs/misc/halloween/spiderweb/spiderweba.prefab|
+|assets/prefabs/misc/halloween/spookyspeaker/spookyspeaker.item.prefab|
 |assets/prefabs/misc/halloween/spookyspeaker/spookyspeaker.prefab|
 |assets/prefabs/misc/item drop/item_drop.prefab|
 |assets/prefabs/misc/item drop/item_drop_backpack.prefab|
@@ -3677,9 +4172,21 @@
 |assets/prefabs/misc/junkpile/junkpile_e.prefab|
 |assets/prefabs/misc/junkpile/junkpile_f.prefab|
 |assets/prefabs/misc/junkpile/junkpile_g.prefab|
+|assets/prefabs/misc/junkpile/models/junkpile_base.prefab|
+|assets/prefabs/misc/junkpile/new/brokenwheel.prefab|
+|assets/prefabs/misc/junkpile/new/cardboardbox.prefab|
+|assets/prefabs/misc/junkpile/new/largegenericcan.prefab|
+|assets/prefabs/misc/junkpile/new/smallgenericcan.prefab|
+|assets/prefabs/misc/junkpile/new/toolbox.prefab|
+|assets/prefabs/misc/junkpile/new/toolbox_junk.prefab|
+|assets/prefabs/misc/junkpile/new/washingmachine.prefab|
+|assets/prefabs/misc/junkpile/new/washingmachine_junk.prefab|
+|assets/prefabs/misc/junkpile/new/wirespindle.prefab|
 |assets/prefabs/misc/junkpile_water/junkpile_water_a.prefab|
 |assets/prefabs/misc/junkpile_water/junkpile_water_b.prefab|
 |assets/prefabs/misc/junkpile_water/junkpile_water_c.prefab|
+|assets/prefabs/misc/note/note.item.prefab|
+|assets/prefabs/misc/note/notepanel.prefab|
 |assets/prefabs/misc/orebonus/effects/bonus_fail.prefab|
 |assets/prefabs/misc/orebonus/effects/bonus_finish.prefab|
 |assets/prefabs/misc/orebonus/effects/bonus_hit.prefab|
@@ -3688,32 +4195,67 @@
 |assets/prefabs/misc/orebonus/ore_flare.prefab|
 |assets/prefabs/misc/orebonus/ore_flare_coverage.prefab|
 |assets/prefabs/misc/orebonus/orebonus_generic.prefab|
+|assets/prefabs/misc/orebonus/sound/bonussound.prefab|
 |assets/prefabs/misc/parachute/parachute.prefab|
 |assets/prefabs/misc/platform/platform.entity.prefab|
+|assets/prefabs/misc/recycler/recycler.prefab|
 |assets/prefabs/misc/skull/skull.prefab|
+|assets/prefabs/misc/skull/skull_human.item.prefab|
+|assets/prefabs/misc/small ration float/chickendinner.prefab|
+|assets/prefabs/misc/small ration float/mashpotato.prefab|
+|assets/prefabs/misc/small ration float/rationboxfloat.prefab|
+|assets/prefabs/misc/small ration float/waterbottle.prefab|
+|assets/prefabs/misc/smallbackpack/smallbackpack.prefab|
 |assets/prefabs/misc/supply drop/supply_drop.prefab|
 |assets/prefabs/misc/xmas/candy cane club/candy_cane.entity.prefab|
 |assets/prefabs/misc/xmas/candy cane club/candy_cane.projectile.prefab|
 |assets/prefabs/misc/xmas/candy cane club/candy_cane.viewmodel.prefab|
 |assets/prefabs/misc/xmas/candy cane club/candy_cane.worldmodel.prefab|
+|assets/prefabs/misc/xmas/candy cane club/candy_cane_club.item.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/attack-1.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/attack-2.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/deploy.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/hit.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/tap.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/throw.prefab|
+|assets/prefabs/misc/xmas/christmas-assets-free/prefabs/7-tip-star.prefab|
+|assets/prefabs/misc/xmas/christmas-assets-free/prefabs/candy-cane.prefab|
+|assets/prefabs/misc/xmas/christmas-assets-free/prefabs/present-01.prefab|
+|assets/prefabs/misc/xmas/christmas-assets-free/prefabs/santa-hat.prefab|
+|assets/prefabs/misc/xmas/christmas-assets-free/prefabs/snowflake.prefab|
+|assets/prefabs/misc/xmas/christmas-presents/prefabs/candy-cane.prefab|
+|assets/prefabs/misc/xmas/christmas-presents/prefabs/christmas-ball.prefab|
+|assets/prefabs/misc/xmas/christmas-presents/prefabs/present.prefab|
+|assets/prefabs/misc/xmas/christmas-presents/prefabs/star.prefab|
+|assets/prefabs/misc/xmas/christmas-presents/prefabs/teddybear.prefab|
 |assets/prefabs/misc/xmas/christmas_lights/xmas.lightstring.deployed.prefab|
+|assets/prefabs/misc/xmas/christmas_lights/xmas.lightstring.item.prefab|
+|assets/prefabs/misc/xmas/christmas_props/assets/prefabs/box_1.prefab|
+|assets/prefabs/misc/xmas/christmas_props/assets/prefabs/box_2.prefab|
+|assets/prefabs/misc/xmas/christmas_props/assets/prefabs/box_3.prefab|
+|assets/prefabs/misc/xmas/christmas_props/assets/prefabs/sock_1.prefab|
+|assets/prefabs/misc/xmas/christmas_props/assets/prefabs/sock_2.prefab|
 |assets/prefabs/misc/xmas/doorgarland/doorgarland.deployed.prefab|
+|assets/prefabs/misc/xmas/doorgarland/doorgarland.item.prefab|
+|assets/prefabs/misc/xmas/event_xmas.prefab|
+|assets/prefabs/misc/xmas/food/candycane.item.prefab|
 |assets/prefabs/misc/xmas/food/candycane.worldmodel.prefab|
 |assets/prefabs/misc/xmas/giant_candy_cane/giantcandycane.deployed.prefab|
+|assets/prefabs/misc/xmas/giant_candy_cane/giantcandycane.item.prefab|
 |assets/prefabs/misc/xmas/giftbox/giftbox_loot.prefab|
 |assets/prefabs/misc/xmas/lollipop_bundle/giantlollipops.deployed.prefab|
+|assets/prefabs/misc/xmas/lollipop_bundle/giantlollipops.item.prefab|
+|assets/prefabs/misc/xmas/pookie/pookie.item.prefab|
 |assets/prefabs/misc/xmas/pookie/pookie.worldmodel.prefab|
 |assets/prefabs/misc/xmas/pookie/pookie_deployed.prefab|
+|assets/prefabs/misc/xmas/presents/coal.item.prefab|
 |assets/prefabs/misc/xmas/presents/effects/unwrap.prefab|
 |assets/prefabs/misc/xmas/presents/effects/wrap.prefab|
+|assets/prefabs/misc/xmas/presents/present.large.item.prefab|
 |assets/prefabs/misc/xmas/presents/present.large.worldmodel.prefab|
+|assets/prefabs/misc/xmas/presents/present.medium.item.prefab|
 |assets/prefabs/misc/xmas/presents/present.medium.worldmodel.prefab|
+|assets/prefabs/misc/xmas/presents/present.small.item.prefab|
 |assets/prefabs/misc/xmas/presents/present.small.worldmodel.prefab|
 |assets/prefabs/misc/xmas/sleigh/presentdrop.prefab|
 |assets/prefabs/misc/xmas/sleigh/santa_prop.prefab|
@@ -3727,30 +4269,57 @@
 |assets/prefabs/misc/xmas/snowball/effects/strike_screenshake.prefab|
 |assets/prefabs/misc/xmas/snowball/effects/throw.prefab|
 |assets/prefabs/misc/xmas/snowball/snowball.entity.prefab|
+|assets/prefabs/misc/xmas/snowball/snowball.item.prefab|
 |assets/prefabs/misc/xmas/snowball/snowball.projectile.prefab|
 |assets/prefabs/misc/xmas/snowball/snowball.viewmodel.prefab|
 |assets/prefabs/misc/xmas/snowball/snowball.worldmodel.prefab|
 |assets/prefabs/misc/xmas/snowman/snowman.deployed.prefab|
+|assets/prefabs/misc/xmas/snowman/snowman.item.prefab|
+|assets/prefabs/misc/xmas/stockings/stocking.large.item.prefab|
 |assets/prefabs/misc/xmas/stockings/stocking.large.worldmodel.prefab|
+|assets/prefabs/misc/xmas/stockings/stocking.small.item.prefab|
 |assets/prefabs/misc/xmas/stockings/stocking.small.worldmodel.prefab|
 |assets/prefabs/misc/xmas/stockings/stocking_large_deployed.prefab|
 |assets/prefabs/misc/xmas/stockings/stocking_small_deployed.prefab|
 |assets/prefabs/misc/xmas/wearable/hat.reindeerantlersheadband/hat.reindeer_antlers_headband.prefab|
+|assets/prefabs/misc/xmas/wearable/hat.reindeerantlersheadband/hat.reindeerantlersheadband.item.prefab|
+|assets/prefabs/misc/xmas/wearable/santahat/santahat.item.prefab|
 |assets/prefabs/misc/xmas/wearable/santahat/santahat.wearable.prefab|
 |assets/prefabs/misc/xmas/wearable/santahat/santahat.worldmodel.prefab|
 |assets/prefabs/misc/xmas/wearable/santahat/santahat_worldmodel.prefab|
 |assets/prefabs/misc/xmas/windowgarland/windowgarland.deployed.prefab|
+|assets/prefabs/misc/xmas/windowgarland/windowgarland.item.prefab|
+|assets/prefabs/misc/xmas/wreath/christmas_door_wreath.item.prefab|
 |assets/prefabs/misc/xmas/wreath/christmas_door_wreath_deployed.prefab|
+|assets/prefabs/misc/xmas/wreath/festive_door_wreath.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/candycanes.worldmodel.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/candycanes_treeset.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/door_frame_decoration.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/electric_garland.worldmodel.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/electric_garland_treeset.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/gingermen.worldmodel.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/gingermen_treeset.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.baubels.item.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.candycanes.item.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.gingerbreadmen.item.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.lights.item.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.pinecones.item.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.star.item.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.tinsel.item.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/pinecone_treeset.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/pinecones.worldmodel.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/polestar.worldmodel.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/polestar_treeset.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/tinsel.worldmodel.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/tinsel_treeset.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/window_frame_decoration.prefab|
+|assets/prefabs/misc/xmas/xmasdecorations/xmas_baubels_treeset.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/xmas_baubles.worldmodel.prefab|
 |assets/prefabs/misc/xmas/xmasrefill.prefab|
 |assets/prefabs/misc/xmas/xmastree/xmas_tree.deployed.prefab|
+|assets/prefabs/misc/xmas/xmastree/xmas_tree.item.prefab|
 |assets/prefabs/misc/xmas/xmastree/xmas_tree_a.deployed.prefab|
+|assets/prefabs/npc/autoturret/autoturret.item.prefab|
 |assets/prefabs/npc/autoturret/autoturret_deployed.prefab|
 |assets/prefabs/npc/autoturret/effects/autoturret-deploy.prefab|
 |assets/prefabs/npc/autoturret/effects/offline.prefab|
@@ -3760,32 +4329,48 @@
 |assets/prefabs/npc/autoturret/muzzleflash_test.prefab|
 |assets/prefabs/npc/autoturret/sentrybullet.prefab|
 |assets/prefabs/npc/autoturret/silencedmuzzleshot.prefab|
+|assets/prefabs/npc/bandit/bandit_town_npc_spawner.prefab|
 |assets/prefabs/npc/bandit/guard/bandit_guard.prefab|
 |assets/prefabs/npc/bandit/shopkeepers/bandit_shopkeeper.prefab|
 |assets/prefabs/npc/bear/bear_full.prefab|
 |assets/prefabs/npc/bear/sound/breathe.prefab|
 |assets/prefabs/npc/bear/sound/death.prefab|
 |assets/prefabs/npc/cargo plane/cargo_plane.prefab|
+|assets/prefabs/npc/ch47/alarmsytstem.prefab|
+|assets/prefabs/npc/ch47/ch47.arttest.prefab|
 |assets/prefabs/npc/ch47/ch47.entity.prefab|
+|assets/prefabs/npc/ch47/ch47flighttest.prefab|
 |assets/prefabs/npc/ch47/ch47scientists.entity.prefab|
+|assets/prefabs/npc/ch47/effects/crashfire.prefab|
 |assets/prefabs/npc/ch47/effects/metaldebris-2.prefab|
 |assets/prefabs/npc/ch47/effects/metaldebris-3.prefab|
 |assets/prefabs/npc/ch47/effects/metaldebris.prefab|
+|assets/prefabs/npc/ch47/effects/watergroundeffect.prefab|
+|assets/prefabs/npc/ch47/reinforcementslistener.prefab|
+|assets/prefabs/npc/ch47/rotorwashparticles.prefab|
 |assets/prefabs/npc/ch47/servergibs_ch47.prefab|
 |assets/prefabs/npc/flame turret/effects/flameturret-deploy.prefab|
 |assets/prefabs/npc/flame turret/flameturret.deployed.prefab|
+|assets/prefabs/npc/flame turret/flameturret.item.prefab|
 |assets/prefabs/npc/flame turret/flameturret_fireball.prefab|
 |assets/prefabs/npc/m2bradley/bradley_crate.prefab|
 |assets/prefabs/npc/m2bradley/bradleyapc.prefab|
+|assets/prefabs/npc/m2bradley/bradleytest.prefab|
 |assets/prefabs/npc/m2bradley/coaxbullet.prefab|
 |assets/prefabs/npc/m2bradley/effects/bradley_explosion.prefab|
 |assets/prefabs/npc/m2bradley/effects/coaxmgmuzzle.prefab|
 |assets/prefabs/npc/m2bradley/effects/maincannonattack.prefab|
 |assets/prefabs/npc/m2bradley/effects/maincannonshell_explosion.prefab|
 |assets/prefabs/npc/m2bradley/effects/sidegun_muzzleflash.prefab|
+|assets/prefabs/npc/m2bradley/effects/tread_dirt.prefab|
+|assets/prefabs/npc/m2bradley/effects/tread_smoke.prefab|
+|assets/prefabs/npc/m2bradley/launchpath.prefab|
+|assets/prefabs/npc/m2bradley/m2bradley.prefab|
 |assets/prefabs/npc/m2bradley/maincannonshell.prefab|
 |assets/prefabs/npc/m2bradley/oilfireball2.prefab|
 |assets/prefabs/npc/m2bradley/servergibs_bradley.prefab|
+|assets/prefabs/npc/m2bradley/spawner.prefab|
+|assets/prefabs/npc/murderer/gloweyes.item.prefab|
 |assets/prefabs/npc/murderer/gloweyes.wearable.prefab|
 |assets/prefabs/npc/murderer/murderer.prefab|
 |assets/prefabs/npc/murderer/murderer_corpse.prefab|
@@ -3796,24 +4381,37 @@
 |assets/prefabs/npc/patrol helicopter/effects/gun_fire_small.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/heli_explosion.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_airburst_explosion.prefab|
+|assets/prefabs/npc/patrol helicopter/effects/rocket_airburst_groundeffect.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_explosion.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_fire.prefab|
+|assets/prefabs/npc/patrol helicopter/groundeffect.prefab|
 |assets/prefabs/npc/patrol helicopter/heli_crate.prefab|
 |assets/prefabs/npc/patrol helicopter/helibullet.prefab|
+|assets/prefabs/npc/patrol helicopter/patrol_helicopter.prefab|
 |assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab|
 |assets/prefabs/npc/patrol helicopter/rocket_heli.prefab|
 |assets/prefabs/npc/patrol helicopter/rocket_heli_airburst.prefab|
 |assets/prefabs/npc/patrol helicopter/rocket_heli_napalm.prefab|
 |assets/prefabs/npc/patrol helicopter/servergibs_patrolhelicopter.prefab|
+|assets/prefabs/npc/patrol helicopter/test.prefab|
 |assets/prefabs/npc/rabbit/rabbit_skin.prefab|
 |assets/prefabs/npc/sam_site_turret/effects/rocket_sam_explosion.prefab|
+|assets/prefabs/npc/sam_site_turret/effects/sam_damage.prefab|
 |assets/prefabs/npc/sam_site_turret/effects/tube_launch.prefab|
 |assets/prefabs/npc/sam_site_turret/rocket.sam.worldmodel.prefab|
 |assets/prefabs/npc/sam_site_turret/rocket_sam.prefab|
+|assets/prefabs/npc/sam_site_turret/sam.rocket.item.prefab|
+|assets/prefabs/npc/sam_site_turret/sam.site.item.prefab|
 |assets/prefabs/npc/sam_site_turret/sam_ammo.prefab|
 |assets/prefabs/npc/sam_site_turret/sam_site_turret_deployed.prefab|
 |assets/prefabs/npc/sam_site_turret/sam_static.prefab|
 |assets/prefabs/npc/scarecrow/scarecrow.prefab|
+|assets/prefabs/npc/scientist/cargo_ship_astar_scientist_spawner.prefab|
+|assets/prefabs/npc/scientist/cargo_ship_hull_interior_scientist_spawn.prefab|
+|assets/prefabs/npc/scientist/cargo_ship_scientist_spawn_1.prefab|
+|assets/prefabs/npc/scientist/cargo_ship_scientist_spawn_2.prefab|
+|assets/prefabs/npc/scientist/cargo_ship_scientist_spawner.prefab|
+|assets/prefabs/npc/scientist/groundpatrolpurple.prefab|
 |assets/prefabs/npc/scientist/htn/scientist_astar_full_any.prefab|
 |assets/prefabs/npc/scientist/htn/scientist_full_any.prefab|
 |assets/prefabs/npc/scientist/htn/scientist_full_lr300.prefab|
@@ -3823,11 +4421,18 @@
 |assets/prefabs/npc/scientist/htn/scientist_junkpile_pistol.prefab|
 |assets/prefabs/npc/scientist/htn/scientist_turret_any.prefab|
 |assets/prefabs/npc/scientist/htn/scientist_turret_lr300.prefab|
+|assets/prefabs/npc/scientist/military_tunnel_lab_scientist_spawner.prefab|
+|assets/prefabs/npc/scientist/military_tunnel_patrolpoints.prefab|
+|assets/prefabs/npc/scientist/military_tunnel_scientist_spawner.prefab|
+|assets/prefabs/npc/scientist/patrolpoint.prefab|
+|assets/prefabs/npc/scientist/sci_compound_scientist_spawner.prefab|
 |assets/prefabs/npc/scientist/scientist.prefab|
 |assets/prefabs/npc/scientist/scientist_corpse.prefab|
 |assets/prefabs/npc/scientist/scientist_gunner.prefab|
 |assets/prefabs/npc/scientist/scientistjunkpile.prefab|
 |assets/prefabs/npc/scientist/scientistpeacekeeper.prefab|
+|assets/prefabs/npc/scientist/scientistspawn.prefab|
+|assets/prefabs/npc/scientist/scientistspawnpoint.prefab|
 |assets/prefabs/npc/scientist/scientiststationary.prefab|
 |assets/prefabs/npc/scientist/sound/aggro.prefab|
 |assets/prefabs/npc/scientist/sound/chatter.prefab|
@@ -3837,13 +4442,17 @@
 |assets/prefabs/npc/scientist/sound/responddeath.prefab|
 |assets/prefabs/npc/scientist/sound/respondok.prefab|
 |assets/prefabs/npc/scientist/sound/takecover.prefab|
+|assets/prefabs/npc/scientist/stationarypoint1.prefab|
 |assets/prefabs/plants/corn/corn.entity.prefab|
+|assets/prefabs/plants/corn/corn.item.prefab|
 |assets/prefabs/plants/corn/corn.skin.0.seed.prefab|
 |assets/prefabs/plants/corn/corn.skin.1.seedling.prefab|
 |assets/prefabs/plants/corn/corn.skin.2.sapling.prefab|
 |assets/prefabs/plants/corn/corn.skin.3.mature.prefab|
 |assets/prefabs/plants/corn/corn.skin.4.fruiting.prefab|
 |assets/prefabs/plants/corn/corn.skin.5.dying.prefab|
+|assets/prefabs/plants/corn/corn_clone.item.prefab|
+|assets/prefabs/plants/corn/corn_seed.item.prefab|
 |assets/prefabs/plants/hemp/hemp.entity.prefab|
 |assets/prefabs/plants/hemp/hemp.skin.0.seed.prefab|
 |assets/prefabs/plants/hemp/hemp.skin.1.seedling.prefab|
@@ -3851,9 +4460,12 @@
 |assets/prefabs/plants/hemp/hemp.skin.3.mature.prefab|
 |assets/prefabs/plants/hemp/hemp.skin.4.fruiting.prefab|
 |assets/prefabs/plants/hemp/hemp.skin.5.dying.prefab|
+|assets/prefabs/plants/hemp/hemp_clone.item.prefab|
+|assets/prefabs/plants/hemp/hemp_seed.item.prefab|
 |assets/prefabs/plants/plantharvest.effect.prefab|
 |assets/prefabs/plants/plantseed.effect.prefab|
 |assets/prefabs/plants/pumpkin/pumpkin.entity.prefab|
+|assets/prefabs/plants/pumpkin/pumpkin.item.prefab|
 |assets/prefabs/plants/pumpkin/pumpkin.skin.0.seed.prefab|
 |assets/prefabs/plants/pumpkin/pumpkin.skin.1.seedling.prefab|
 |assets/prefabs/plants/pumpkin/pumpkin.skin.2.sapling.prefab|
@@ -3862,6 +4474,8 @@
 |assets/prefabs/plants/pumpkin/pumpkin.skin.5.dying.prefab|
 |assets/prefabs/plants/pumpkin/pumpkin.wearable.prefab|
 |assets/prefabs/plants/pumpkin/pumpkin.worldmodel.prefab|
+|assets/prefabs/plants/pumpkin/pumpkin_clone.item.prefab|
+|assets/prefabs/plants/pumpkin/pumpkin_seed.item.prefab|
 |assets/prefabs/player/player.prefab|
 |assets/prefabs/player/player_collision.prefab|
 |assets/prefabs/player/player_corpse.prefab|
@@ -3870,57 +4484,98 @@
 |assets/prefabs/player/player_nametag.prefab|
 |assets/prefabs/player/player_preview.prefab|
 |assets/prefabs/player/player_ragdoll.prefab|
+|assets/prefabs/resource/animal fat/fat.animal.item.prefab|
 |assets/prefabs/resource/animal fat/fat.animal.worldmodel.prefab|
+|assets/prefabs/resource/battery small/battery_small.item.prefab|
+|assets/prefabs/resource/blood/blood.item.prefab|
+|assets/prefabs/resource/bone fragments/bone_fragments.item.prefab|
 |assets/prefabs/resource/bone fragments/bone_fragments.worldmodel.prefab|
+|assets/prefabs/resource/cctv camera/cctv_camera.item.prefab|
 |assets/prefabs/resource/cctv camera/cctv_camera.worldmodel.prefab|
+|assets/prefabs/resource/charcoal/charcoal.item.prefab|
 |assets/prefabs/resource/charcoal/charcoal.worldmodel.prefab|
+|assets/prefabs/resource/cloth/cloth.item.prefab|
 |assets/prefabs/resource/cloth/cloth.worldmodel.prefab|
+|assets/prefabs/resource/crude oil/crude_oil.item.prefab|
 |assets/prefabs/resource/crude oil/crude_oil.worldmodel.prefab|
+|assets/prefabs/resource/empty beancan/can_beans_empty.item.prefab|
+|assets/prefabs/resource/empty beancan/can_tuna_empty.item.prefab|
+|assets/prefabs/resource/explosives/explosives.item.prefab|
 |assets/prefabs/resource/explosives/explosives.worldmodel.prefab|
+|assets/prefabs/resource/gunpowder/gunpowder.item.prefab|
 |assets/prefabs/resource/gunpowder/gunpowder.worldmodel.prefab|
+|assets/prefabs/resource/hq metal ore/hq_metal_ore.item.prefab|
 |assets/prefabs/resource/hq metal ore/hq_metal_ore.worldmodel.prefab|
+|assets/prefabs/resource/hq metal/metal_refined.item.prefab|
 |assets/prefabs/resource/hq metal/metal_refined.worldmodel.prefab|
+|assets/prefabs/resource/leather/leather.item.prefab|
 |assets/prefabs/resource/leather/leather.worldmodel.prefab|
+|assets/prefabs/resource/low grade fuel/fuel.lowgrade.item.prefab|
 |assets/prefabs/resource/low grade fuel/fuel.lowgrade.worldmodel.prefab|
+|assets/prefabs/resource/metal fragments/metal_fragments.item.prefab|
 |assets/prefabs/resource/metal fragments/metal_fragments.worldmodel.prefab|
+|assets/prefabs/resource/metal ore/metal_ore.item.prefab|
 |assets/prefabs/resource/metal ore/metal_ore.worldmodel.prefab|
+|assets/prefabs/resource/paper/paper.item.prefab|
 |assets/prefabs/resource/paper/paper.worldmodel.prefab|
+|assets/prefabs/resource/research paper/researchpaper.item.prefab|
+|assets/prefabs/resource/salt water/salt_water.item.prefab|
+|assets/prefabs/resource/scrap/scrap.item.prefab|
 |assets/prefabs/resource/scrap/scrap.worldmodel.prefab|
 |assets/prefabs/resource/stone/stone.worldmodel.prefab|
+|assets/prefabs/resource/stone/stones.item.prefab|
+|assets/prefabs/resource/sulfur ore/sulfur_ore.item.prefab|
 |assets/prefabs/resource/sulfur ore/sulfur_ore.worldmodel.prefab|
+|assets/prefabs/resource/sulfur/sulfur.item.prefab|
 |assets/prefabs/resource/sulfur/sulphur.worldmodel.prefab|
+|assets/prefabs/resource/targeting computer/targeting_computer.item.prefab|
 |assets/prefabs/resource/targeting computer/targeting_computer.worldmodel.prefab|
+|assets/prefabs/resource/water/water.item.prefab|
+|assets/prefabs/resource/wolf skull/skull_wolf.item.prefab|
 |assets/prefabs/resource/wolf skull/skull_wolf.worldmodel.prefab|
+|assets/prefabs/resource/wood/wood.item.prefab|
 |assets/prefabs/resource/wood/wood.worldmodel.prefab|
+|assets/prefabs/tools/anti-radiation pills/antiradpills.item.prefab|
+|assets/prefabs/tools/anti-radiation pills/antiradpills.prefab|
 |assets/prefabs/tools/binoculars/binocular.entity.prefab|
 |assets/prefabs/tools/binoculars/binocular.viewmodel.prefab|
+|assets/prefabs/tools/binoculars/binoculars.item.prefab|
+|assets/prefabs/tools/binoculars/binoculars.prefab|
 |assets/prefabs/tools/binoculars/effects/deploy.prefab|
 |assets/prefabs/tools/binoculars/sound/fovchange.prefab|
+|assets/prefabs/tools/blood bag/bloodbag.prefab|
 |assets/prefabs/tools/c4/effects/c4_explosion.prefab|
 |assets/prefabs/tools/c4/effects/c4_stick.prefab|
 |assets/prefabs/tools/c4/effects/deploy.prefab|
 |assets/prefabs/tools/c4/explosive.timed.deployed.prefab|
 |assets/prefabs/tools/c4/explosive.timed.entity.prefab|
+|assets/prefabs/tools/c4/explosive.timed.item.prefab|
 |assets/prefabs/tools/c4/explosive.timed.viewmodel.prefab|
 |assets/prefabs/tools/c4/explosive.timed.worldmodel.prefab|
+|assets/prefabs/tools/camera/camera.item.prefab|
 |assets/prefabs/tools/camera/camera.worldmodel.prefab|
 |assets/prefabs/tools/camera/tool_camera.prefab|
 |assets/prefabs/tools/deploy (obsolete)/generic_deploy.prefab|
 |assets/prefabs/tools/detonator/detonator.entity.prefab|
+|assets/prefabs/tools/detonator/detonator.item.prefab|
 |assets/prefabs/tools/detonator/detonator.viewmodel.prefab|
 |assets/prefabs/tools/detonator/detonator.worldmodel.prefab|
 |assets/prefabs/tools/detonator/effects/attack.prefab|
 |assets/prefabs/tools/detonator/effects/deploy.prefab|
 |assets/prefabs/tools/detonator/effects/unpress.prefab|
+|assets/prefabs/tools/detonator/v_detonator.prefab|
 |assets/prefabs/tools/fishing rod/bobber/bobber.prefab|
 |assets/prefabs/tools/fishing rod/fishing_rod.entity.prefab|
+|assets/prefabs/tools/fishing rod/fishing_rod.item.prefab|
 |assets/prefabs/tools/fishing rod/fishing_rod.viewmodel.prefab|
+|assets/prefabs/tools/fishing rod/fishing_rod.weapon.prefab|
 |assets/prefabs/tools/flareold/effects/deploy.prefab|
 |assets/prefabs/tools/flareold/effects/ignite.prefab|
 |assets/prefabs/tools/flareold/effects/popcap.prefab|
 |assets/prefabs/tools/flareold/effects/pullpin.prefab|
 |assets/prefabs/tools/flareold/effects/throw.prefab|
 |assets/prefabs/tools/flareold/flare.deployed.prefab|
+|assets/prefabs/tools/flareold/flare.item.prefab|
 |assets/prefabs/tools/flareold/flare.viewmodel.prefab|
 |assets/prefabs/tools/flareold/flare.weapon.prefab|
 |assets/prefabs/tools/flareold/flare.worldmodel.prefab|
@@ -3929,49 +4584,75 @@
 |assets/prefabs/tools/flashlight/effects/deploy.prefab|
 |assets/prefabs/tools/flashlight/effects/turn_on.prefab|
 |assets/prefabs/tools/flashlight/flashlight.entity.prefab|
+|assets/prefabs/tools/flashlight/flashlight.item.prefab|
 |assets/prefabs/tools/flashlight/flashlight.viewmodel.prefab|
 |assets/prefabs/tools/flashlight/flashlight.worldmodel.prefab|
 |assets/prefabs/tools/flashlight/vm_flashlight.prefab|
 |assets/prefabs/tools/geiger counter/geiger_counter.entity.prefab|
+|assets/prefabs/tools/geiger counter/geiger_counter.item.prefab|
 |assets/prefabs/tools/jackhammer/effects/deploy.prefab|
 |assets/prefabs/tools/jackhammer/effects/strike_screenshake.prefab|
 |assets/prefabs/tools/jackhammer/jackhammer.entity.prefab|
+|assets/prefabs/tools/jackhammer/jackhammer.item.prefab|
 |assets/prefabs/tools/jackhammer/jackhammer.viewmodel.prefab|
 |assets/prefabs/tools/jackhammer/jackhammer.worldmodel.prefab|
+|assets/prefabs/tools/jackhammer/model/jackhammer.prefab|
 |assets/prefabs/tools/keycard/effects/attack.prefab|
 |assets/prefabs/tools/keycard/effects/deploy.prefab|
 |assets/prefabs/tools/keycard/effects/swipe.prefab|
 |assets/prefabs/tools/keycard/keycard.entity.prefab|
 |assets/prefabs/tools/keycard/keycard.viewmodel.prefab|
+|assets/prefabs/tools/keycard/keycard_blue.item.prefab|
 |assets/prefabs/tools/keycard/keycard_blue.worldmodel.prefab|
 |assets/prefabs/tools/keycard/keycard_blue_pickup.entity.prefab|
+|assets/prefabs/tools/keycard/keycard_green.item.prefab|
 |assets/prefabs/tools/keycard/keycard_green.worldmodel.prefab|
 |assets/prefabs/tools/keycard/keycard_green_pickup.entity.prefab|
+|assets/prefabs/tools/keycard/keycard_red.item.prefab|
 |assets/prefabs/tools/keycard/keycard_red.worldmodel.prefab|
 |assets/prefabs/tools/keycard/keycard_red_pickup.entity.prefab|
+|assets/prefabs/tools/large medkit/largemedkit.item.prefab|
 |assets/prefabs/tools/map/cargomarker.prefab|
 |assets/prefabs/tools/map/ch47marker.prefab|
 |assets/prefabs/tools/map/cratemarker.prefab|
 |assets/prefabs/tools/map/explosionmarker.prefab|
 |assets/prefabs/tools/map/genericradiusmarker.prefab|
+|assets/prefabs/tools/map/map.item.prefab|
 |assets/prefabs/tools/map/map.prefab|
 |assets/prefabs/tools/map/map.worldmodel.prefab|
+|assets/prefabs/tools/map/ui/ui.map.cargoship.prefab|
+|assets/prefabs/tools/map/ui/ui.map.ch47marker.prefab|
+|assets/prefabs/tools/map/ui/ui.map.coordinatetext.prefab|
+|assets/prefabs/tools/map/ui/ui.map.explosion.prefab|
+|assets/prefabs/tools/map/ui/ui.map.genericradial.prefab|
+|assets/prefabs/tools/map/ui/ui.map.hackablecrate.prefab|
 |assets/prefabs/tools/medical syringe/effects/inject_friend.prefab|
 |assets/prefabs/tools/medical syringe/effects/inject_self.prefab|
 |assets/prefabs/tools/medical syringe/effects/pop_button_cap.prefab|
 |assets/prefabs/tools/medical syringe/effects/pop_cap.prefab|
 |assets/prefabs/tools/medical syringe/syringe_medical.entity.prefab|
+|assets/prefabs/tools/medical syringe/syringe_medical.item.prefab|
 |assets/prefabs/tools/medical syringe/syringe_medical.viewmodel.prefab|
 |assets/prefabs/tools/medical syringe/syringe_medical.worldmodel.prefab|
+|assets/prefabs/tools/motion detector/motiondetector.prefab|
 |assets/prefabs/tools/pager/effects/beep.prefab|
 |assets/prefabs/tools/pager/effects/vibrate.prefab|
 |assets/prefabs/tools/pager/pager.entity.prefab|
+|assets/prefabs/tools/pager/rfpager.item.prefab|
+|assets/prefabs/tools/planner/building_planner.item.prefab|
 |assets/prefabs/tools/planner/building_planner.worldmodel.prefab|
 |assets/prefabs/tools/planner/planner.prefab|
+|assets/prefabs/tools/rf units/rfaerial.prefab|
+|assets/prefabs/tools/rf units/rfreceiver.prefab|
 |assets/prefabs/tools/smoke grenade/effects/ignite.prefab|
+|assets/prefabs/tools/smoke grenade/effects/smokegrenade.prefab|
+|assets/prefabs/tools/smoke grenade/effects/smokegrenade_small.prefab|
 |assets/prefabs/tools/smoke grenade/grenade.smoke.deployed.prefab|
+|assets/prefabs/tools/smoke grenade/smoke_grenade.item.prefab|
 |assets/prefabs/tools/smoke grenade/smoke_grenade.weapon.prefab|
 |assets/prefabs/tools/supply signal/grenade.supplysignal.deployed.prefab|
+|assets/prefabs/tools/supply signal/model/m18_smokegrenade.prefab|
+|assets/prefabs/tools/supply signal/supply_signal.item.prefab|
 |assets/prefabs/tools/supply signal/supplysignal.viewmodel.prefab|
 |assets/prefabs/tools/supply signal/supplysignal.weapon.prefab|
 |assets/prefabs/tools/supply signal/supplysignal.worldmodel.prefab|
@@ -3982,6 +4663,8 @@
 |assets/prefabs/tools/surveycharge/survey_charge.worldmodel.prefab|
 |assets/prefabs/tools/surveycharge/survey_crater.prefab|
 |assets/prefabs/tools/surveycharge/survey_crater_oil.prefab|
+|assets/prefabs/tools/surveycharge/surveycharge.item.prefab|
+|assets/prefabs/tools/surveycharge/surveycharge.prefab|
 |assets/prefabs/tools/wire/clientioline.prefab|
 |assets/prefabs/tools/wire/effects/plugeffect.prefab|
 |assets/prefabs/tools/wire/ioslothandles/ioslothandle.prefab|
@@ -3992,6 +4675,7 @@
 |assets/prefabs/tools/wire/wire.viewmodel.prefab|
 |assets/prefabs/tools/wire/wire.worldmodel.prefab|
 |assets/prefabs/tools/wire/wiretool.entity.prefab|
+|assets/prefabs/tools/wire/wiretool.item.prefab|
 |assets/prefabs/vehicle/seats/copilotseat.prefab|
 |assets/prefabs/vehicle/seats/driverseat.prefab|
 |assets/prefabs/vehicle/seats/gunnertest.prefab|
@@ -4007,37 +4691,60 @@
 |assets/prefabs/vehicle/seats/testseat.prefab|
 |assets/prefabs/visualization/sphere.prefab|
 |assets/prefabs/weapon mods/8x scope/8xscope.entity.prefab|
+|assets/prefabs/weapon mods/8x scope/8xscope.item.prefab|
+|assets/prefabs/weapon mods/8x scope/8xscope.prefab|
 |assets/prefabs/weapon mods/8x scope/8xscope.vm.attachment.prefab|
 |assets/prefabs/weapon mods/8x scope/8xscope.worldmodel.prefab|
+|assets/prefabs/weapon mods/8x scope/8xscope_vm.prefab|
 |assets/prefabs/weapon mods/flashlight/flashlight.entity.prefab|
 |assets/prefabs/weapon mods/flashlight/flashlight.vm.attachment.prefab|
 |assets/prefabs/weapon mods/flashlight/flashlight.worldmodel.prefab|
+|assets/prefabs/weapon mods/flashlight/flashlightmod.item.prefab|
+|assets/prefabs/weapon mods/flashlight/lighteffect_1p.prefab|
+|assets/prefabs/weapon mods/flashlight/lighteffect_3p.prefab|
+|assets/prefabs/weapon mods/flashlight/pistol_flashlight.entity.prefab|
+|assets/prefabs/weapon mods/flashlight/pistol_flashlight.viewmodel.prefab|
 |assets/prefabs/weapon mods/flashlight/pistol_flashlight.worldmodel.prefab|
 |assets/prefabs/weapon mods/holosight/holosight.entity.prefab|
+|assets/prefabs/weapon mods/holosight/holosight.item.prefab|
 |assets/prefabs/weapon mods/holosight/holosight.vm.attachment.prefab|
 |assets/prefabs/weapon mods/holosight/holosight.worldmodel.prefab|
+|assets/prefabs/weapon mods/lasersight/lasereffect_1p.prefab|
+|assets/prefabs/weapon mods/lasersight/lasereffect_3p.prefab|
 |assets/prefabs/weapon mods/lasersight/lasersight.entity.prefab|
+|assets/prefabs/weapon mods/lasersight/lasersight.item.prefab|
 |assets/prefabs/weapon mods/lasersight/lasersight.vm.attachment.prefab|
 |assets/prefabs/weapon mods/lasersight/lasersight.worldmodel.prefab|
 |assets/prefabs/weapon mods/mod_attach.fx.prefab|
 |assets/prefabs/weapon mods/muzzleboost/muzzleboost.entity.prefab|
 |assets/prefabs/weapon mods/muzzleboost/muzzleboost.vm.attachment.prefab|
 |assets/prefabs/weapon mods/muzzleboost/muzzleboost.worldmodel.prefab|
+|assets/prefabs/weapon mods/muzzleboost/muzzlebooster.item.prefab|
 |assets/prefabs/weapon mods/muzzlebrake/muzzlebrake.entity.prefab|
+|assets/prefabs/weapon mods/muzzlebrake/muzzlebrake.item.prefab|
 |assets/prefabs/weapon mods/muzzlebrake/muzzlebrake.vm.attachment.prefab|
 |assets/prefabs/weapon mods/muzzlebrake/muzzlebrake.worldmodel.prefab|
 |assets/prefabs/weapon mods/reddotsight/simplesight.entity.prefab|
+|assets/prefabs/weapon mods/reddotsight/simplesight.item.prefab|
 |assets/prefabs/weapon mods/reddotsight/simplesight.vm.attachment.prefab|
 |assets/prefabs/weapon mods/reddotsight/simplesight.worldmodel.prefab|
+|assets/prefabs/weapon mods/scope/scope.prefab|
 |assets/prefabs/weapon mods/silencers/effects/silencedshot_default.prefab|
 |assets/prefabs/weapon mods/silencers/effects/silencer_attach.fx.prefab|
+|assets/prefabs/weapon mods/silencers/oilfiltersilencer_v.prefab|
+|assets/prefabs/weapon mods/silencers/oilfiltersilencer_w.prefab|
 |assets/prefabs/weapon mods/silencers/silencer.entity.prefab|
+|assets/prefabs/weapon mods/silencers/silencer.item.prefab|
 |assets/prefabs/weapon mods/silencers/silencer.vm.attachment.prefab|
 |assets/prefabs/weapon mods/silencers/silencer.worldmodel.prefab|
+|assets/prefabs/weapon mods/silencers/sodacansilencer_v.prefab|
+|assets/prefabs/weapon mods/silencers/sodacansilencer_w.prefab|
+|assets/prefabs/weapon mods/smallscope/scope.small.item.prefab|
 |assets/prefabs/weapon mods/smallscope/smallscope.entity.prefab|
 |assets/prefabs/weapon mods/smallscope/smallscope.vm.attachment.prefab|
 |assets/prefabs/weapon mods/smallscope/smallscope.worldmodel.prefab|
 |assets/prefabs/weapons/ak47u/ak47u.entity.prefab|
+|assets/prefabs/weapons/ak47u/ak47u.item.prefab|
 |assets/prefabs/weapons/ak47u/ak47u.viewmodel.prefab|
 |assets/prefabs/weapons/ak47u/ak47u.worldmodel.prefab|
 |assets/prefabs/weapons/ak47u/effects/attack.prefab|
@@ -4072,8 +4779,10 @@
 |assets/prefabs/weapons/arms/effects/shove.prefab|
 |assets/prefabs/weapons/arms/effects/uppercut.prefab|
 |assets/prefabs/weapons/arms/effects/uppercut_hit-1.prefab|
+|assets/prefabs/weapons/arms/food.weapon.prefab|
 |assets/prefabs/weapons/arms/food_gestures.viewmodel.prefab|
 |assets/prefabs/weapons/bandage/bandage.entity.prefab|
+|assets/prefabs/weapons/bandage/bandage.item.prefab|
 |assets/prefabs/weapons/bandage/bandage.viewmodel.prefab|
 |assets/prefabs/weapons/bandage/bandage.worldmodel.prefab|
 |assets/prefabs/weapons/bandage/effects/deploy.prefab|
@@ -4087,8 +4796,10 @@
 |assets/prefabs/weapons/beancan grenade/effects/light_fuse.prefab|
 |assets/prefabs/weapons/beancan grenade/grenade.beancan.deployed.prefab|
 |assets/prefabs/weapons/beancan grenade/grenade.beancan.entity.prefab|
+|assets/prefabs/weapons/beancan grenade/grenade.beancan.item.prefab|
 |assets/prefabs/weapons/beancan grenade/grenade.beancan.viewmodel.prefab|
 |assets/prefabs/weapons/bolt rifle/bolt_rifle.entity.prefab|
+|assets/prefabs/weapons/bolt rifle/bolt_rifle.item.prefab|
 |assets/prefabs/weapons/bolt rifle/bolt_rifle.viewmodel.prefab|
 |assets/prefabs/weapons/bolt rifle/bolt_rifle.worldmodel.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack.prefab|
@@ -4105,6 +4816,7 @@
 |assets/prefabs/weapons/bolt rifle/effects/pfx_bolt_open_smoke.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/bone club/bone_club.entity.prefab|
+|assets/prefabs/weapons/bone club/bone_club.item.prefab|
 |assets/prefabs/weapons/bone club/bone_club.viewmodel.prefab|
 |assets/prefabs/weapons/bone club/boneclub.projectile.prefab|
 |assets/prefabs/weapons/bone club/boneclub.worldmodel.prefab|
@@ -4126,9 +4838,16 @@
 |assets/prefabs/weapons/bone knife/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/bone knife/effects/throw.prefab|
 |assets/prefabs/weapons/bone knife/knife_bone.entity.prefab|
+|assets/prefabs/weapons/bone knife/knife_bone.item.prefab|
 |assets/prefabs/weapons/bone knife/knife_bone.viewmodel.prefab|
+|assets/prefabs/weapons/bow/arrow heads/bone_arrowhead.prefab|
+|assets/prefabs/weapons/bow/arrow heads/fire_arrowhead.prefab|
+|assets/prefabs/weapons/bow/arrow heads/metal_arrowhead.prefab|
+|assets/prefabs/weapons/bow/arrow heads/poison_arrowhead.prefab|
+|assets/prefabs/weapons/bow/arrow heads/stone_arrowhead.prefab|
 |assets/prefabs/weapons/bow/bow.worldmodel.prefab|
 |assets/prefabs/weapons/bow/bow_hunting.entity.prefab|
+|assets/prefabs/weapons/bow/bow_hunting.item.prefab|
 |assets/prefabs/weapons/bow/bow_hunting.viewmodel.prefab|
 |assets/prefabs/weapons/bow/effects/attack.prefab|
 |assets/prefabs/weapons/bow/effects/deploy.prefab|
@@ -4136,6 +4855,7 @@
 |assets/prefabs/weapons/bow/effects/draw_cancel.prefab|
 |assets/prefabs/weapons/bow/effects/fire.prefab|
 |assets/prefabs/weapons/cake/cake.entity.prefab|
+|assets/prefabs/weapons/cake/cake.item.prefab|
 |assets/prefabs/weapons/cake/cake.projectile.prefab|
 |assets/prefabs/weapons/cake/cake.viewmodel.prefab|
 |assets/prefabs/weapons/cake/cake.worldmodel.prefab|
@@ -4145,7 +4865,10 @@
 |assets/prefabs/weapons/cake/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/cake/effects/throw.prefab|
 |assets/prefabs/weapons/chainsaw/chainsaw.entity.prefab|
+|assets/prefabs/weapons/chainsaw/chainsaw.item.prefab|
+|assets/prefabs/weapons/chainsaw/chainsaw.prefab|
 |assets/prefabs/weapons/chainsaw/chainsaw.viewmodel.prefab|
+|assets/prefabs/weapons/chainsaw/chainsaw.wm.prefab|
 |assets/prefabs/weapons/chainsaw/chainsaw.worldmodel.prefab|
 |assets/prefabs/weapons/chainsaw/effects/chainlink_hit_blood.prefab|
 |assets/prefabs/weapons/chainsaw/effects/chainlink_hit_wood.prefab|
@@ -4163,9 +4886,11 @@
 |assets/prefabs/weapons/cleaver big/effects/hit.prefab|
 |assets/prefabs/weapons/cleaver big/effects/throw.prefab|
 |assets/prefabs/weapons/cleaver big/salvaged_cleaver.entity.prefab|
+|assets/prefabs/weapons/cleaver big/salvaged_cleaver.item.prefab|
 |assets/prefabs/weapons/cleaver big/salvaged_cleaver.projectile.prefab|
 |assets/prefabs/weapons/cleaver big/salvaged_cleaver.viewmodel.prefab|
 |assets/prefabs/weapons/compound bow/compound_bow.entity.prefab|
+|assets/prefabs/weapons/compound bow/compound_bow.item.prefab|
 |assets/prefabs/weapons/compound bow/compound_bow.viewmodel.prefab|
 |assets/prefabs/weapons/compound bow/compoundbow.worldmodel.prefab|
 |assets/prefabs/weapons/compound bow/effects/attack.prefab|
@@ -4175,6 +4900,7 @@
 |assets/prefabs/weapons/compound bow/effects/place_arrow.prefab|
 |assets/prefabs/weapons/compound bow/effects/reload_start.prefab|
 |assets/prefabs/weapons/crossbow/crossbow.entity.prefab|
+|assets/prefabs/weapons/crossbow/crossbow.item.prefab|
 |assets/prefabs/weapons/crossbow/crossbow.viewmodel.prefab|
 |assets/prefabs/weapons/crossbow/crossbow.worldmodel.prefab|
 |assets/prefabs/weapons/crossbow/effects/attack.prefab|
@@ -4199,6 +4925,7 @@
 |assets/prefabs/weapons/doubleshotgun/effects/pfx_open_barrel_smoke.prefab|
 |assets/prefabs/weapons/doubleshotgun/effects/w_eject_shotgun_shell_1.prefab|
 |assets/prefabs/weapons/doubleshotgun/effects/w_eject_shotgun_shell_2.prefab|
+|assets/prefabs/weapons/doubleshotgun/shotgun_double.item.prefab|
 |assets/prefabs/weapons/eoka pistol/effects/attack.prefab|
 |assets/prefabs/weapons/eoka pistol/effects/attack_shake.prefab|
 |assets/prefabs/weapons/eoka pistol/effects/deploy.prefab|
@@ -4211,6 +4938,7 @@
 |assets/prefabs/weapons/eoka pistol/effects/rock_scrape-3.prefab|
 |assets/prefabs/weapons/eoka pistol/eoka_pistol.worldmodel.prefab|
 |assets/prefabs/weapons/eoka pistol/pistol_eoka.entity.prefab|
+|assets/prefabs/weapons/eoka pistol/pistol_eoka.item.prefab|
 |assets/prefabs/weapons/eoka pistol/pistol_eoka.viewmodel.prefab|
 |assets/prefabs/weapons/f1 grenade/effects/bounce.prefab|
 |assets/prefabs/weapons/f1 grenade/effects/deploy.prefab|
@@ -4220,18 +4948,41 @@
 |assets/prefabs/weapons/f1 grenade/effects/throw.prefab|
 |assets/prefabs/weapons/f1 grenade/grenade.f1.deployed.prefab|
 |assets/prefabs/weapons/f1 grenade/grenade.f1.entity.prefab|
+|assets/prefabs/weapons/f1 grenade/grenade.f1.item.prefab|
 |assets/prefabs/weapons/f1 grenade/grenade.f1.viewmodel.prefab|
 |assets/prefabs/weapons/f1 grenade/grenade.f1.worldmodel.prefab|
 |assets/prefabs/weapons/flamethrower/effects/deploy.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flame_explosion 1.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flame_explosion.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flame_explosion_dist 1.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flame_explosion_dist.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flametest.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flamethrowerflamefx-v2-1stperson.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flamethrowerflamefx-v2-1stperson2.prefab|
+|assets/prefabs/weapons/flamethrower/effects/flamethrowerflamefx-v2.prefab|
 |assets/prefabs/weapons/flamethrower/effects/gas_release.prefab|
 |assets/prefabs/weapons/flamethrower/effects/gascan_in.prefab|
 |assets/prefabs/weapons/flamethrower/effects/gascan_out.prefab|
 |assets/prefabs/weapons/flamethrower/effects/toggle_flame.prefab|
 |assets/prefabs/weapons/flamethrower/effects/valve_open.prefab|
 |assets/prefabs/weapons/flamethrower/flamethrower.entity.prefab|
+|assets/prefabs/weapons/flamethrower/flamethrower.item.prefab|
 |assets/prefabs/weapons/flamethrower/flamethrower.viewmodel.prefab|
 |assets/prefabs/weapons/flamethrower/flamethrower.worldmodel.prefab|
 |assets/prefabs/weapons/flamethrower/flamethrower_fireball.prefab|
+|assets/prefabs/weapons/grenade launcher/effects/attack.prefab|
+|assets/prefabs/weapons/grenade launcher/effects/deploy.prefab|
+|assets/prefabs/weapons/grenade launcher/effects/reload_end.prefab|
+|assets/prefabs/weapons/grenade launcher/effects/reload_single_insert.prefab|
+|assets/prefabs/weapons/grenade launcher/effects/reload_single_spin.prefab|
+|assets/prefabs/weapons/grenade launcher/effects/reload_single_start.prefab|
+|assets/prefabs/weapons/grenade launcher/effects/reload_start.prefab|
+|assets/prefabs/weapons/grenade launcher/glammo.prefab|
+|assets/prefabs/weapons/grenade launcher/glammo_low.prefab|
+|assets/prefabs/weapons/grenade launcher/grenadelauncher.viewmodel.prefab|
+|assets/prefabs/weapons/grenade launcher/grenadelauncher.worldmodel.prefab|
+|assets/prefabs/weapons/grenade launcher/mgl.entity.prefab|
+|assets/prefabs/weapons/grenade launcher/mgl.item.prefab|
 |assets/prefabs/weapons/hacksaw/effects/attack-1.prefab|
 |assets/prefabs/weapons/hacksaw/effects/attack-2.prefab|
 |assets/prefabs/weapons/hacksaw/effects/hit.prefab|
@@ -4239,6 +4990,7 @@
 |assets/prefabs/weapons/hacksaw/hacksaw.weapon.prefab|
 |assets/prefabs/weapons/hacksaw/hacksaw.worldmodel.prefab|
 |assets/prefabs/weapons/halloween/butcher knife/butcherknife.entity.prefab|
+|assets/prefabs/weapons/halloween/butcher knife/butcherknife.item.prefab|
 |assets/prefabs/weapons/halloween/butcher knife/butcherknife.projectile.prefab|
 |assets/prefabs/weapons/halloween/butcher knife/butcherknife.viewmodel.prefab|
 |assets/prefabs/weapons/halloween/butcher knife/butcherknife.worldmodel.prefab|
@@ -4255,12 +5007,15 @@
 |assets/prefabs/weapons/halloween/pitchfork/effects/attack.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/effects/deploy.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/effects/holster.prefab|
+|assets/prefabs/weapons/halloween/pitchfork/effects/pull_out.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/effects/strike_stone-muted.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/effects/strike_stone-soft.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/effects/strike_stone.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/effects/throw.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/pitchfork.entity.prefab|
+|assets/prefabs/weapons/halloween/pitchfork/pitchfork.item.prefab|
+|assets/prefabs/weapons/halloween/pitchfork/pitchfork.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/pitchfork.projectile.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/pitchfork.viewmodel.prefab|
 |assets/prefabs/weapons/halloween/pitchfork/pitchfork.worldmodel.prefab|
@@ -4273,6 +5028,7 @@
 |assets/prefabs/weapons/halloween/sickle/effects/swing.prefab|
 |assets/prefabs/weapons/halloween/sickle/effects/throw.prefab|
 |assets/prefabs/weapons/halloween/sickle/sickle.entity.prefab|
+|assets/prefabs/weapons/halloween/sickle/sickle.item.prefab|
 |assets/prefabs/weapons/halloween/sickle/sickle.projectile.prefab|
 |assets/prefabs/weapons/halloween/sickle/sickle.viewmodel.prefab|
 |assets/prefabs/weapons/halloween/sickle/sickle.worldmodel.prefab|
@@ -4283,6 +5039,7 @@
 |assets/prefabs/weapons/hammer/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/hammer/effects/throw.prefab|
 |assets/prefabs/weapons/hammer/hammer.entity.prefab|
+|assets/prefabs/weapons/hammer/hammer.item.prefab|
 |assets/prefabs/weapons/hammer/hammer.viewmodel.prefab|
 |assets/prefabs/weapons/hammer/hammer.worldmodel.prefab|
 |assets/prefabs/weapons/hatchet/effects/attack_shake.prefab|
@@ -4294,9 +5051,26 @@
 |assets/prefabs/weapons/hatchet/effects/swing.prefab|
 |assets/prefabs/weapons/hatchet/effects/throw.prefab|
 |assets/prefabs/weapons/hatchet/hatchet.entity.prefab|
+|assets/prefabs/weapons/hatchet/hatchet.item.prefab|
 |assets/prefabs/weapons/hatchet/hatchet.projectile.prefab|
 |assets/prefabs/weapons/hatchet/hatchet.viewmodel.prefab|
 |assets/prefabs/weapons/hatchet/hatchet.worldmodel.prefab|
+|assets/prefabs/weapons/knife/effects/attack-1.prefab|
+|assets/prefabs/weapons/knife/effects/attack-2.prefab|
+|assets/prefabs/weapons/knife/effects/deploy.prefab|
+|assets/prefabs/weapons/knife/effects/hit.prefab|
+|assets/prefabs/weapons/knife/effects/holster.prefab|
+|assets/prefabs/weapons/knife/effects/strike-soft.prefab|
+|assets/prefabs/weapons/knife/effects/strike.prefab|
+|assets/prefabs/weapons/knife/effects/strike_screenshake.prefab|
+|assets/prefabs/weapons/knife/effects/throw.prefab|
+|assets/prefabs/weapons/knife/knife.combat.entity.prefab|
+|assets/prefabs/weapons/knife/knife.combat.item.prefab|
+|assets/prefabs/weapons/knife/knife.combat.projectile.prefab|
+|assets/prefabs/weapons/knife/knife.combat.viewmodel.prefab|
+|assets/prefabs/weapons/knife/knife.combat.worldmodel.prefab|
+|assets/prefabs/weapons/knife/knife_v.prefab|
+|assets/prefabs/weapons/knife/knife_w.prefab|
 |assets/prefabs/weapons/l96/effects/attack.prefab|
 |assets/prefabs/weapons/l96/effects/attack_shake.prefab|
 |assets/prefabs/weapons/l96/effects/dryfire.prefab|
@@ -4312,6 +5086,7 @@
 |assets/prefabs/weapons/l96/effects/l96_remove_mag.prefab|
 |assets/prefabs/weapons/l96/effects/pfx_bolt_open_smoke.prefab|
 |assets/prefabs/weapons/l96/l96.entity.prefab|
+|assets/prefabs/weapons/l96/l96.item.prefab|
 |assets/prefabs/weapons/l96/l96.viewmodel.prefab|
 |assets/prefabs/weapons/l96/l96.worldmodel.prefab|
 |assets/prefabs/weapons/lr300/effects/attack.prefab|
@@ -4335,6 +5110,7 @@
 |assets/prefabs/weapons/lr300/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/lr300/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/lr300/lr300.entity.prefab|
+|assets/prefabs/weapons/lr300/lr300.item.prefab|
 |assets/prefabs/weapons/lr300/lr300.viewmodel.prefab|
 |assets/prefabs/weapons/lr300/lr300.worldmodel.prefab|
 |assets/prefabs/weapons/m249/effects/ammobox_insert.prefab|
@@ -4358,6 +5134,7 @@
 |assets/prefabs/weapons/m249/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/m249/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/m249/m249.entity.prefab|
+|assets/prefabs/weapons/m249/m249.item.prefab|
 |assets/prefabs/weapons/m249/m249.viewmodel.prefab|
 |assets/prefabs/weapons/m249/m249_worldmodel.prefab|
 |assets/prefabs/weapons/m39 emr/effects/attack.prefab|
@@ -4377,6 +5154,7 @@
 |assets/prefabs/weapons/m39 emr/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/m39 emr/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/m39 emr/m39.entity.prefab|
+|assets/prefabs/weapons/m39 emr/m39.item.prefab|
 |assets/prefabs/weapons/m39 emr/m39.viewmodel.prefab|
 |assets/prefabs/weapons/m39 emr/m39.worldmodel.prefab|
 |assets/prefabs/weapons/m92/effects/attack.prefab|
@@ -4396,6 +5174,7 @@
 |assets/prefabs/weapons/m92/effects/w_drop_mag.prefab|
 |assets/prefabs/weapons/m92/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/m92/m92.entity.prefab|
+|assets/prefabs/weapons/m92/m92.item.prefab|
 |assets/prefabs/weapons/m92/m92.viewmodel.prefab|
 |assets/prefabs/weapons/m92/m92.worldmodel.prefab|
 |assets/prefabs/weapons/mace/effects/attack-1.prefab|
@@ -4404,6 +5183,7 @@
 |assets/prefabs/weapons/mace/effects/hit.prefab|
 |assets/prefabs/weapons/mace/effects/throw.prefab|
 |assets/prefabs/weapons/mace/mace.entity.prefab|
+|assets/prefabs/weapons/mace/mace.item.prefab|
 |assets/prefabs/weapons/mace/mace.projectile.prefab|
 |assets/prefabs/weapons/mace/mace.viewmodel.prefab|
 |assets/prefabs/weapons/mace/mace.worldmodel.prefab|
@@ -4416,10 +5196,12 @@
 |assets/prefabs/weapons/machete/effects/hit.prefab|
 |assets/prefabs/weapons/machete/effects/swing_thirdperson.prefab|
 |assets/prefabs/weapons/machete/effects/throw.prefab|
+|assets/prefabs/weapons/machete/machete.item.prefab|
 |assets/prefabs/weapons/machete/machete.projectile.prefab|
 |assets/prefabs/weapons/machete/machete.viewmodel.prefab|
 |assets/prefabs/weapons/machete/machete.weapon.prefab|
 |assets/prefabs/weapons/machete/machete.worldmodel.prefab|
+|assets/prefabs/weapons/mortar/mortar.prefab|
 |assets/prefabs/weapons/mp5/effects/attack.prefab|
 |assets/prefabs/weapons/mp5/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/mp5/effects/attack_shake.prefab|
@@ -4434,9 +5216,11 @@
 |assets/prefabs/weapons/mp5/effects/dryfire.prefab|
 |assets/prefabs/weapons/mp5/effects/eject_shell.prefab|
 |assets/prefabs/weapons/mp5/effects/fire_select.prefab|
+|assets/prefabs/weapons/mp5/effects/muzzleflash_flamelet.prefab|
 |assets/prefabs/weapons/mp5/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/mp5/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/mp5/mp5.entity.prefab|
+|assets/prefabs/weapons/mp5/mp5.item.prefab|
 |assets/prefabs/weapons/mp5/mp5.viewmodel.prefab|
 |assets/prefabs/weapons/mp5/mp5.worldmodel.prefab|
 |assets/prefabs/weapons/nailgun/effects/attack.prefab|
@@ -4445,7 +5229,9 @@
 |assets/prefabs/weapons/nailgun/effects/clip_in.prefab|
 |assets/prefabs/weapons/nailgun/effects/clip_out.prefab|
 |assets/prefabs/weapons/nailgun/effects/deploy.prefab|
+|assets/prefabs/weapons/nailgun/nail_projectile.prefab|
 |assets/prefabs/weapons/nailgun/nailgun.entity.prefab|
+|assets/prefabs/weapons/nailgun/nailgun.item.prefab|
 |assets/prefabs/weapons/nailgun/nailgun.viewmodel.prefab|
 |assets/prefabs/weapons/nailgun/nailgun.worldmodel.prefab|
 |assets/prefabs/weapons/nailgun/nails.worldmodel.prefab|
@@ -4458,6 +5244,7 @@
 |assets/prefabs/weapons/pickaxe/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/pickaxe/effects/throw.prefab|
 |assets/prefabs/weapons/pickaxe/pickaxe.entity.prefab|
+|assets/prefabs/weapons/pickaxe/pickaxe.item.prefab|
 |assets/prefabs/weapons/pickaxe/pickaxe.projectile.prefab|
 |assets/prefabs/weapons/pickaxe/pickaxe.viewmodel.prefab|
 |assets/prefabs/weapons/pickaxe/pickaxe.worldmodel.prefab|
@@ -4471,6 +5258,7 @@
 |assets/prefabs/weapons/pipe shotgun/effects/pfx_open_barrel_smoke.prefab|
 |assets/prefabs/weapons/pipe shotgun/effects/reload_start.prefab|
 |assets/prefabs/weapons/pipe shotgun/shotgun_waterpipe.entity.prefab|
+|assets/prefabs/weapons/pipe shotgun/shotgun_waterpipe.item.prefab|
 |assets/prefabs/weapons/pipe shotgun/shotgun_waterpipe.viewmodel.prefab|
 |assets/prefabs/weapons/pipe shotgun/shotgun_waterpipe.worldmodel.prefab|
 |assets/prefabs/weapons/python/effects/attack.prefab|
@@ -4485,6 +5273,7 @@
 |assets/prefabs/weapons/python/effects/pfx_open_cylinder_smoke.prefab|
 |assets/prefabs/weapons/python/effects/w_eject_pistol_shells.prefab|
 |assets/prefabs/weapons/python/python.entity.prefab|
+|assets/prefabs/weapons/python/python.item.prefab|
 |assets/prefabs/weapons/python/python.viewmodel.prefab|
 |assets/prefabs/weapons/python/python.worldmodel.prefab|
 |assets/prefabs/weapons/revolver/effects/attack.prefab|
@@ -4501,6 +5290,7 @@
 |assets/prefabs/weapons/revolver/effects/shut_cylinder.prefab|
 |assets/prefabs/weapons/revolver/effects/w_eject_pistol_shells.prefab|
 |assets/prefabs/weapons/revolver/pistol_revolver.entity.prefab|
+|assets/prefabs/weapons/revolver/pistol_revolver.item.prefab|
 |assets/prefabs/weapons/revolver/pistol_revolver.viewmodel.prefab|
 |assets/prefabs/weapons/revolver/pistol_revolver.worldmodel.prefab|
 |assets/prefabs/weapons/rock/effects/attack.prefab|
@@ -4509,6 +5299,7 @@
 |assets/prefabs/weapons/rock/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/rock/effects/throw.prefab|
 |assets/prefabs/weapons/rock/rock.entity.prefab|
+|assets/prefabs/weapons/rock/rock.item.prefab|
 |assets/prefabs/weapons/rock/rock.projectile.prefab|
 |assets/prefabs/weapons/rock/rock.viewmodel.prefab|
 |assets/prefabs/weapons/rock/rock.worldmodel.prefab|
@@ -4533,9 +5324,15 @@
 |assets/prefabs/weapons/rocketlauncher/effects/rocket_launch_fx.prefab|
 |assets/prefabs/weapons/rocketlauncher/model/vm_rocketlauncher.prefab|
 |assets/prefabs/weapons/rocketlauncher/rocket_launcher.entity.prefab|
+|assets/prefabs/weapons/rocketlauncher/rocket_launcher.item.prefab|
 |assets/prefabs/weapons/rocketlauncher/rocket_launcher.viewmodel.prefab|
 |assets/prefabs/weapons/rocketlauncher/rocketlauncher.worldmodel.prefab|
+|assets/prefabs/weapons/rocketlauncher/rpg/rpg.prefab|
+|assets/prefabs/weapons/rocketlauncher/rpg/rpg2.prefab|
+|assets/prefabs/weapons/rocketlauncher/rpg/rpg3.prefab|
+|assets/prefabs/weapons/rocketlauncher/rpg/rpg4.prefab|
 |assets/prefabs/weapons/salvaged_axe/axe_salvaged.entity.prefab|
+|assets/prefabs/weapons/salvaged_axe/axe_salvaged.item.prefab|
 |assets/prefabs/weapons/salvaged_axe/axe_salvaged.projectile.prefab|
 |assets/prefabs/weapons/salvaged_axe/axe_salvaged.viewmodel.prefab|
 |assets/prefabs/weapons/salvaged_axe/axe_salvaged.worldmodel.prefab|
@@ -4557,6 +5354,7 @@
 |assets/prefabs/weapons/salvaged_hammer/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/salvaged_hammer/effects/throw.prefab|
 |assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.entity.prefab|
+|assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.item.prefab|
 |assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.projectile.prefab|
 |assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.viewmodel.prefab|
 |assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.worldmodel.prefab|
@@ -4570,6 +5368,7 @@
 |assets/prefabs/weapons/salvaged_icepick/effects/tap.prefab|
 |assets/prefabs/weapons/salvaged_icepick/effects/throw.prefab|
 |assets/prefabs/weapons/salvaged_icepick/icepick_salvaged.entity.prefab|
+|assets/prefabs/weapons/salvaged_icepick/icepick_salvaged.item.prefab|
 |assets/prefabs/weapons/salvaged_icepick/icepick_salvaged.projectile.prefab|
 |assets/prefabs/weapons/salvaged_icepick/icepick_salvaged.viewmodel.prefab|
 |assets/prefabs/weapons/salvaged_icepick/icepick_salvaged.worldmodel.prefab|
@@ -4578,6 +5377,7 @@
 |assets/prefabs/weapons/satchelcharge/effects/throw.prefab|
 |assets/prefabs/weapons/satchelcharge/explosive.satchel.deployed.prefab|
 |assets/prefabs/weapons/satchelcharge/explosive.satchel.entity.prefab|
+|assets/prefabs/weapons/satchelcharge/explosive.satchel.item.prefab|
 |assets/prefabs/weapons/satchelcharge/satchel_charge.viewmodel.prefab|
 |assets/prefabs/weapons/satchelcharge/satchel_charge.worldmodel.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/attack.prefab|
@@ -4595,6 +5395,7 @@
 |assets/prefabs/weapons/sawnoff_shotgun/effects/shell_smoke.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/w_eject_shotgun_shell.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.entity.prefab|
+|assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.item.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.viewmodel.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.worldmodel.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/attack.prefab|
@@ -4613,6 +5414,7 @@
 |assets/prefabs/weapons/semi auto pistol/effects/w_drop_mag.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/semi auto pistol/pistol_semiauto.entity.prefab|
+|assets/prefabs/weapons/semi auto pistol/pistol_semiauto.item.prefab|
 |assets/prefabs/weapons/semi auto pistol/pistol_semiauto.viewmodel.prefab|
 |assets/prefabs/weapons/semi auto pistol/pistol_semiauto.worldmodel.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/attack.prefab|
@@ -4632,8 +5434,10 @@
 |assets/prefabs/weapons/semi auto rifle/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/semi auto rifle/semi_auto_rifle.entity.prefab|
+|assets/prefabs/weapons/semi auto rifle/semi_auto_rifle.item.prefab|
 |assets/prefabs/weapons/semi auto rifle/semi_auto_rifle.viewmodel.prefab|
 |assets/prefabs/weapons/semi auto rifle/semi_auto_rifle.worldmodel.prefab|
+|assets/prefabs/weapons/smg/barrel_sights.prefab|
 |assets/prefabs/weapons/smg/effects/attack.prefab|
 |assets/prefabs/weapons/smg/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/smg/effects/attack_shake.prefab|
@@ -4649,9 +5453,14 @@
 |assets/prefabs/weapons/smg/effects/reload_start.prefab|
 |assets/prefabs/weapons/smg/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/smg/effects/w_eject_pistol_shell.prefab|
+|assets/prefabs/weapons/smg/grip.prefab|
+|assets/prefabs/weapons/smg/magazine.prefab|
 |assets/prefabs/weapons/smg/smg.entity.prefab|
+|assets/prefabs/weapons/smg/smg.item.prefab|
 |assets/prefabs/weapons/smg/smg.viewmodel.prefab|
 |assets/prefabs/weapons/smg/smg.worldmodel.prefab|
+|assets/prefabs/weapons/smg/smg_basic.prefab|
+|assets/prefabs/weapons/smg/stock.prefab|
 |assets/prefabs/weapons/spas12/effects/attack.prefab|
 |assets/prefabs/weapons/spas12/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/spas12/effects/attack_shake.prefab|
@@ -4665,6 +5474,7 @@
 |assets/prefabs/weapons/spas12/effects/pump_forward.prefab|
 |assets/prefabs/weapons/spas12/effects/w_eject_shotgun_shell.prefab|
 |assets/prefabs/weapons/spas12/spas12.entity.prefab|
+|assets/prefabs/weapons/spas12/spas12.item.prefab|
 |assets/prefabs/weapons/spas12/spas12.viewmodel.prefab|
 |assets/prefabs/weapons/spas12/spas12.worldmodel.prefab|
 |assets/prefabs/weapons/stone hatchet/effects/attack_shake.prefab|
@@ -4678,6 +5488,7 @@
 |assets/prefabs/weapons/stone hatchet/hatchet_stone.projectile.prefab|
 |assets/prefabs/weapons/stone hatchet/hatchet_stone.worldmodel.prefab|
 |assets/prefabs/weapons/stone hatchet/stonehatchet.entity.prefab|
+|assets/prefabs/weapons/stone hatchet/stonehatchet.item.prefab|
 |assets/prefabs/weapons/stone hatchet/stonehatchet.viewmodel.prefab|
 |assets/prefabs/weapons/stone pickaxe/effects/attack.prefab|
 |assets/prefabs/weapons/stone pickaxe/effects/deploy.prefab|
@@ -4688,6 +5499,7 @@
 |assets/prefabs/weapons/stone pickaxe/effects/swing.prefab|
 |assets/prefabs/weapons/stone pickaxe/effects/throw.prefab|
 |assets/prefabs/weapons/stone pickaxe/stone_pickaxe.entity.prefab|
+|assets/prefabs/weapons/stone pickaxe/stone_pickaxe.item.prefab|
 |assets/prefabs/weapons/stone pickaxe/stone_pickaxe.projectile.prefab|
 |assets/prefabs/weapons/stone pickaxe/stone_pickaxe.viewmodel.prefab|
 |assets/prefabs/weapons/stone pickaxe/stone_pickaxe.worldmodel.prefab|
@@ -4695,12 +5507,14 @@
 |assets/prefabs/weapons/stone spear/effects/attack.prefab|
 |assets/prefabs/weapons/stone spear/effects/deploy.prefab|
 |assets/prefabs/weapons/stone spear/effects/holster.prefab|
+|assets/prefabs/weapons/stone spear/effects/pull_out.prefab|
 |assets/prefabs/weapons/stone spear/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/stone spear/effects/strike_stone-muted.prefab|
 |assets/prefabs/weapons/stone spear/effects/strike_stone-soft.prefab|
 |assets/prefabs/weapons/stone spear/effects/strike_stone.prefab|
 |assets/prefabs/weapons/stone spear/effects/throw.prefab|
 |assets/prefabs/weapons/stone spear/spear_stone.entity.prefab|
+|assets/prefabs/weapons/stone spear/spear_stone.item.prefab|
 |assets/prefabs/weapons/stone spear/spear_stone.viewmodel.prefab|
 |assets/prefabs/weapons/stone spear/stone_spear.projectile.prefab|
 |assets/prefabs/weapons/stone spear/stone_spear.worldmodel.prefab|
@@ -4713,6 +5527,7 @@
 |assets/prefabs/weapons/sword big/effects/hit.prefab|
 |assets/prefabs/weapons/sword big/effects/throw.prefab|
 |assets/prefabs/weapons/sword big/longsword.entity.prefab|
+|assets/prefabs/weapons/sword big/longsword.item.prefab|
 |assets/prefabs/weapons/sword big/longsword.projectile.prefab|
 |assets/prefabs/weapons/sword big/longsword.viewmodel.prefab|
 |assets/prefabs/weapons/sword big/longsword.worldmodel.prefab|
@@ -4725,6 +5540,7 @@
 |assets/prefabs/weapons/sword/effects/hit.prefab|
 |assets/prefabs/weapons/sword/effects/throw.prefab|
 |assets/prefabs/weapons/sword/salvaged_sword.entity.prefab|
+|assets/prefabs/weapons/sword/salvaged_sword.item.prefab|
 |assets/prefabs/weapons/sword/salvaged_sword.projectile.prefab|
 |assets/prefabs/weapons/sword/salvaged_sword.viewmodel.prefab|
 |assets/prefabs/weapons/sword/sword.worldmodel.prefab|
@@ -4746,6 +5562,7 @@
 |assets/prefabs/weapons/thompson/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/thompson/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/thompson/thompson.entity.prefab|
+|assets/prefabs/weapons/thompson/thompson.item.prefab|
 |assets/prefabs/weapons/thompson/thompson.viewmodel.prefab|
 |assets/prefabs/weapons/thompson/thompson.worldmodel.prefab|
 |assets/prefabs/weapons/torch/effects/attack.prefab|
@@ -4757,9 +5574,11 @@
 |assets/prefabs/weapons/torch/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/torch/effects/torch_loop.prefab|
 |assets/prefabs/weapons/torch/torch.entity.prefab|
+|assets/prefabs/weapons/torch/torch.item.prefab|
 |assets/prefabs/weapons/torch/torch.viewmodel.prefab|
 |assets/prefabs/weapons/torch/torch.worldmodel.prefab|
 |assets/prefabs/weapons/unarmed.viewmodel.prefab|
+|assets/prefabs/weapons/waterbucket/bucket.item.prefab|
 |assets/prefabs/weapons/waterbucket/effects/deploy.prefab|
 |assets/prefabs/weapons/waterbucket/effects/fillbucket_fromcontainer.prefab|
 |assets/prefabs/weapons/waterbucket/effects/fillbucket_fromworld.prefab|
@@ -4775,15 +5594,24 @@
 |assets/prefabs/weapons/wooden spear/effects/attack.prefab|
 |assets/prefabs/weapons/wooden spear/effects/deploy.prefab|
 |assets/prefabs/weapons/wooden spear/effects/holster.prefab|
+|assets/prefabs/weapons/wooden spear/effects/pull_out.prefab|
 |assets/prefabs/weapons/wooden spear/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/wooden spear/effects/strike_wood-muted.prefab|
 |assets/prefabs/weapons/wooden spear/effects/strike_wood-soft.prefab|
 |assets/prefabs/weapons/wooden spear/effects/strike_wood.prefab|
 |assets/prefabs/weapons/wooden spear/effects/throw.prefab|
 |assets/prefabs/weapons/wooden spear/spear_wooden.entity.prefab|
+|assets/prefabs/weapons/wooden spear/spear_wooden.item.prefab|
 |assets/prefabs/weapons/wooden spear/spear_wooden.viewmodel.prefab|
 |assets/prefabs/weapons/wooden spear/wooden_spear.projectile.prefab|
 |assets/prefabs/weapons/wooden spear/wooden_spear.worldmodel.prefab|
+|assets/prefabs/world/decor.barren.prefab|
+|assets/prefabs/world/decor.v2.prefab|
+|assets/prefabs/world/foliage.v1.prefab|
+|assets/prefabs/world/spawn.barren.prefab|
+|assets/prefabs/world/spawn.empty.prefab|
+|assets/prefabs/world/spawn.v2.hapis.prefab|
+|assets/prefabs/world/spawn.v2.prefab|
 |assets/rust.ai/agents/bear/bear.corpse.prefab|
 |assets/rust.ai/agents/bear/bear.prefab|
 |assets/rust.ai/agents/bear/bear.ragdoll.prefab|
@@ -4843,6 +5671,9 @@
 |assets/rust.ai/agents/horse/horse.corpse.prefab|
 |assets/rust.ai/agents/horse/horse.prefab|
 |assets/rust.ai/agents/horse/horse.ragdoll.prefab|
+|assets/rust.ai/agents/npcplayer/humannpc/heavyscientist/heavyscientist.prefab|
+|assets/rust.ai/agents/npcplayer/humannpc/humannpc.prefab|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc.prefab|
 |assets/rust.ai/agents/npcplayer/npcplayertest.prefab|
 |assets/rust.ai/agents/stag/footsteps/decal_footprint_deer.prefab|
 |assets/rust.ai/agents/stag/footsteps/decal_footprint_deer_deer.prefab|

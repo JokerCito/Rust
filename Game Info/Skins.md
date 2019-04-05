@@ -1,5 +1,61 @@
 |ID|Name|
 |:-:|:-|
+|1583218948|Last Friend|
+|1693063715|Honeycomb|
+|1691834772|Bandit Headwrap|
+|1687047599|Deep Sea Door|
+|1693898215|Cold Hunter MP5|
+|1693498234|Pure Evil|
+|1687042408|Glory Rifle|
+|1685873480|Salvaged Hazmat Bandana|
+|1559242743|Spider Furnace|
+|1414795168|Armored Scrapper Door|
+|1685375084|Playmaker AK47|
+|1345464512|Mysterious Cult Thompson|
+|1689944021|Glory Thompson|
+|1673754411|Phantom MP5|
+|1635559091|Prancing Pony LR-300|
+|1686299197|Freight Crate|
+|1680452167|Vandal Chest Plate|
+|1680454451|Vandal Face Mask|
+|1680595474|Double Oil Pipe|
+|1680678559|Leprechaun's Loot|
+|1680120997|ZENLABS Garage Door|
+|1680572723|Oil Rig Door|
+|1679665505|BullDozer AK47|
+|1679876778|Oil Rig Storage Box|
+|1546404025|Cursed Treasure Hatchet|
+|1529558717|Gun Lord Door|
+|1395469801|Blast Armored Door|
+|1673157060|Dead Man's Chest|
+|1592946955|Shark Rifle|
+|1672707813|Skull Seeker Python|
+|1671985039|Phantom LR-300|
+|1660175523|Brotherhood DBS|
+|1666328139|Metalhead Pump Shotgun|
+|1666630991|Hut Door|
+|1660290744|Airman Hoodie|
+|1660293384|Airman Pants|
+|1660691287|Jungle Fighter LR-300 Stockless|
+|1667097058|Candyman SAR|
+|1645019295|Birch Furnace|
+|1657103887|Glory Rocket Launcher|
+|1637950966|Bandit Rug|
+|1659781652|Troll Daddy AK|
+|1631920728|Batteries Not Included Python|
+|1649777840|Egiptu Garage Door|
+|1652800384|Fire Slasher|
+|1657109993|Glory Boots|
+|1657108026|Glory Kilt|
+|1630511618|Monster Furnace|
+|1652362426|Pink Death LR300|
+|1652555216|Hearts Furnace|
+|1654499223|Valentine MP5|
+|1652791742|Cupidon|
+|1652017472|Heart of the Creator|
+|1651859603|Box of Hearts|
+|1652348929|Sweet Shot|
+|1653322594|Dead Valentine Door|
 |1644715625|Marked for Death|
 |1645407409|Minicopter Hangar Door|
 |1640730462|Octo Furnace|
@@ -659,7 +715,7 @@
 |1203322875|Wildfire LR-300|
 |1202978872|Scrapper Helmet|
 |1202977830|Scrapper Vest|
-|1202976443|Scrapper Pants|
+|1202976443|Scrapper Kilt|
 |1196674526|Stonecraft Hatchet|
 |1196675392|Stonecraft Pick Axe|
 |1197730661|Punk Bucket|
